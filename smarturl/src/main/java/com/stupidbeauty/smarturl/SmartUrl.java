@@ -1,5 +1,29 @@
 package com.stupidbeauty.smarturl;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import com.stupidbeauty.hxlauncher.interfaces.LocalServerListLoadListener;
+import com.stupidbeauty.victoriafresh.VFile;
+import org.apache.commons.io.FileUtils;
+import com.google.gson.Gson;
+import com.stupidbeauty.hxlauncher.Constants;
+import com.stupidbeauty.hxlauncher.bean.VoicePackageMapJsonItem;
+import com.stupidbeauty.hxlauncher.bean.VoicePackageUrlMapData;
+import com.stupidbeauty.hxlauncher.bean.WakeLockPackageNameSetData;
+import com.stupidbeauty.hxlauncher.datastore.RuntimeInformationStore;
+import android.net.Uri;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
+import android.content.pm.ShortcutInfo;
+import android.graphics.drawable.AnimationDrawable;
+import android.graphics.drawable.Drawable;
+import android.content.ActivityNotFoundException;
+import android.content.BroadcastReceiver;
+import android.content.ComponentName;
+import android.content.Context;
+import android.content.Intent;
 import com.koushikdutta.async.*;
 import java.net.InetSocketAddress;
 import com.koushikdutta.async.callback.ConnectCallback;
@@ -35,6 +59,7 @@ public class SmartUrl
     private boolean isUploading=false; //!< 是否正在上传。陈欣
     private InetAddress host;
     private File rootDirectory=null; //!< 根目录。
+    private List<VoicePackageMapJsonItem> urlList; //!< 网址前缀列表。
     
     /**
     * 从数据套接字处接收数据。陈欣
@@ -59,7 +84,47 @@ public class SmartUrl
     {
       this.context=context;
       this.host=host;
+      
+      loadVoicePackageUrlMap(); // 载入网址前缀列表。陈欣。
     }
+    
+      /**
+	 * 载入语音识别结果与包下载地址之间的映射。
+	 */
+	private void loadVoicePackageUrlMap()
+	{
+		String qrcFileName="voicePackageUrlMap.json"; //文件名。
+		String fullQrcFileName=":/VoicePackageUrlMapInternationalization/"+qrcFileName; //构造完整的qrc文件名。
+
+		        int victoriaFreshDataFileId=context.getResources().getIdentifier("victoriafreshdata_smarturl", "raw", context.getPackageName()); //获取数据文件编号。
+        int victoriaFreshIndexFileId=context.getResources().getIdentifier("victoriafresh_smarturl", "raw", context.getPackageName()); //获取索引文件编号。
+
+		VFile qrcHtmlFile=new VFile(context, victoriaFreshIndexFileId, victoriaFreshDataFileId, fullQrcFileName); //qrc网页文件。
+
+		String fileContent=qrcHtmlFile.getFileTextContent(); //获取文件的完整内容。
+
+		Gson gson=new Gson();
+
+		VoicePackageUrlMapData voicePackageUrlMapData = gson.fromJson(fileContent, VoicePackageUrlMapData.class); //解析。
+
+// 		voicePackageUrlMap=new HashMap<>(); //创建映射。
+// 		packageNameUrlMap=new HashMap<>(); //创建映射
+// 		packageNameVersionNameMap=new HashMap<>(); // 创建映射。陈欣
+// 		packageNameApplicationNameMap=new HashMap<>(); //创建映射
+
+		if (voicePackageUrlMapData!=null) //解析得到的映射数据不为空。
+		{
+		urlList=voicePackageUrlMapData.getVoicePackageMapJsonItemList(); // 获取列表。
+			for(VoicePackageMapJsonItem currentItem: voicePackageUrlMapData.getVoicePackageMapJsonItemList()) //一个个地添加。
+			{
+// 				voicePackageUrlMap.put(currentItem.voiceCommand, currentItem.packageUrl); //加入映射。
+// 				packageNameUrlMap.put(currentItem.getPackageName(), currentItem.packageUrl); //加入映射。
+// 				packageNameVersionNameMap.put(currentItem.getPackageName(), currentItem.versionName); // 加入映射。
+// 				packageNameApplicationNameMap.put( currentItem.getPackageName(),currentItem.voiceCommand); //加入映射，包名与应用程序名的映射
+			} //for(VoicePackageMapJsonItem currentItem: voicePackageUrlMapData.getVoicePackageMapJsonItemList()) //一个个地添加。
+		} //if (voicePackageUrlMapData!=null) //解析得到的映射数据不为空。
+	} //private void loadVoicePackageUrlMap()
+
     
     /**
     * 以二进制模式发送字符串内容。
@@ -97,6 +162,41 @@ public class SmartUrl
         
         sendStringInBinaryMode(replyString); // 发送。
     } //private void notifyFileSendCompleted()
+
+        /**
+     * 启动应用。
+     * @param launchIntent 启动用的意图。
+     */
+    public boolean launchApplication(Intent launchIntent, String url)
+    {
+        boolean result=false; //结果
+
+        Log.d(TAG, "launchApplication, launch intent: " + launchIntent); //Debug.
+        try //尝试启动活动，并且捕获可能的异常。
+        {
+            if (launchIntent!=null) //启动意图存在。
+            {
+//                     Intent i = new Intent(Intent.ACTION_VIEW);
+//       i.setData(Uri.parse(url));
+                      launchIntent.setAction(Intent.ACTION_VIEW);
+      launchIntent.setData(Uri.parse(url));
+
+                       context.startActivity(launchIntent); //启动活动。
+            } //                    if (launchIntent!=null) //启动意图存在。
+
+            result=true; //启动成功
+        } //try //尝试启动活动，并且捕获可能的异常。
+        catch (ActivityNotFoundException exception)
+        {
+            exception.printStackTrace(); //报告错误。
+        } //catch (ActivityNotFoundException exception)
+        catch (SecurityException exception) //安全异常。
+        {
+            exception.printStackTrace(); //报告错误。
+        } //catch (SecurityException exception) //安全异常。
+
+        return result;
+    } //private void launchApplication(Intent launchIntent)
 
     /**
     * 告知上传完成。
@@ -149,57 +249,57 @@ public class SmartUrl
     } //private void notifyLsCompleted()
 
     /**
-    *  获取目录的完整列表。
+    *  打开网址。陈欣。
     */
-    private String getDirectoryContentList(String wholeDirecotoryPath, String nameOfFile)
+    public void openUrl(String url)
     {
-        nameOfFile=nameOfFile.trim(); // 去除空白字符。陈欣
-    
-        String result=""; // 结果。
-        File photoDirecotry= new File(wholeDirecotoryPath); //照片目录。
-            
-        File[]   paths = photoDirecotry.listFiles();
-         
-         // for each pathname in pathname array
-        for(File path:paths) 
+      for(VoicePackageMapJsonItem currentMap : urlList)
+      {
+        if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
         {
-            // -rw-r--r-- 1 nobody nobody     35179727 Oct 16 07:31 VID_20201015_181816.mp4
-
-            String fileName=path.getName(); // 获取文件名。
-
-            Date date=new Date(path.lastModified());  
-                            
-            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm");
-//   String time= date.format(formatter);
-            String time="8:00";
-
-            DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("MM");
-
-            String dateString="30";
-                            
-            long fileSize=path.length(); // 文件尺寸。
-                            
-            String group="cx";
-                            
-            String user = "ChenXin";
-                            
-            String linkNumber="1";
-                            
-//             String permission="-rw-r--r--"; // 权限。
-            String permission=getPermissionForFile(path); // 权限。
-
-            String month="Jan"; // 月份 。
-            String currentLine = permission + " " + linkNumber + " " + user + " " + group + " " + fileSize + " " + month + " " + dateString + " " + time + " " + fileName + "\n" ; // 构造当前行。
-            
-            if (fileName.equals(nameOfFile)  || (nameOfFile.isEmpty())) // 名字匹配。
-            {
-            result=result+currentLine; // 构造结果。
-            } //if (fileName.equals(nameOfFile)) // 名字匹配。
-         }
-
-         return result;
+          String packageName=currentMap.getPackageName();
+          
+        Log.d(TAG, "openUrl, package name: " + packageName + ", package url: " + currentMap.packageUrl + ", url: " + url); // Debug.
+          
+          
+          launchApplicationByPackageName(packageName, url); // 启动应用。
+        
+          break;
+        } //if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
+      } //for(VoicePackageMapJsonItem : urlList)
     } //private String getDirectoryContentList(String wholeDirecotoryPath)
     
+        /**
+     * 根据包名启动应用程序。
+     * @param packageName 包名。
+     */
+    private boolean launchApplicationByPackageName(String packageName, String url)
+    {
+        boolean result=false; //启动结果
+        PackageManager packageManager=context.getPackageManager(); //获取软件包管理器。
+
+        Intent launchIntent= packageManager.getLaunchIntentForPackage(packageName); //获取当前软件包的启动意图。
+
+        if (launchIntent!=null) //意图存在。
+        {
+            try //尝试启动活动，并且捕获可能的异常。
+            {
+              launchApplication(launchIntent, url); //启动活动。
+
+              result=true; //成功
+            } //try //尝试启动活动，并且捕获可能的异常。
+            catch (ActivityNotFoundException exception)
+            {
+                exception.printStackTrace(); //报告错误。
+            } //catch (ActivityNotFoundException exception)
+        } //if (launchIntent!=null) //意图存在。
+        //意图不存在，则说明对应的应用不存在，后续应当触发自动下载。
+        //else //意图不存在，则说明对应的应用不存在，后续应当触发自动下载。
+
+        return result;
+    } //private void launchApplicationByPackageName(String packageName)
+
+
     /**
     * 获取文件或目录的权限。
     */
@@ -246,18 +346,6 @@ public class SmartUrl
                 }
             });
         } //else if (command.equals("PASS")) // 密码
-        else if (command.equals("SYST")) // 系统信息
-        {
-            //        send_data "200 UNIX Type: L8\n"
-
-            Util.writeAll(socket, "215 UNIX Type: L8\\n".getBytes(), new CompletedCallback() {
-                @Override
-                public void onCompleted(Exception ex) {
-                    if (ex != null) throw new RuntimeException(ex);
-                    System.out.println("[Server] Successfully wrote message");
-                }
-            });
-        } //else if (command.equals("SYST")) // 系统信息
         else if (command.equals("TYPE")) // 传输类型
         {
             String replyString="200 binery type set" + "\n"; // 回复内容。

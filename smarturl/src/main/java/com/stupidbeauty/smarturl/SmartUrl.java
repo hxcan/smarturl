@@ -247,6 +247,63 @@ public class SmartUrl
     } //private void notifyLsCompleted()
 
     /**
+    * 查询打开方法。
+    */
+    public OpenMethod getOpenMethod(String url) 
+    {
+      OpenMethod result=new OpenMethod(); // 结果。
+      
+          for(VoicePackageMapJsonItem currentMap : urlList)
+      {
+        if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
+        {
+          String packageName=currentMap.getPackageName();
+          String activityName=currentMap.getActivityName(); // 获取活动名字。
+          String method=currentMap.getMethod(); // 获取方法。
+          
+          result.setPackageName(packageName);
+          result.setActivityName(activityName);
+          result.setMethod(method);
+          
+          Log.d(TAG, "openUrl, package name: " + packageName + ", package url: " + currentMap.packageUrl + ", url: " + url); // Debug.
+//           /Data/图片/Screenshot_20211204_104108.png
+// https://qr.alipay.com/tsx09358qau1du34ryj8u88
+
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.FastStartActivity
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity.alias
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.AppLinksActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.SchemeLauncherActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.framework.service.common.SchemeStartActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareDispenseActivity
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.ResultActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.aompdevice.nfc.AlipayNFCRouterActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.aompdevice.nfc.AlipayNFCRouterActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.TransProcessPayActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.TransProcessPayActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.biz.scheme.MspSchemeActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspContainerActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspWebActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspUniRenderActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspSettingsActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.FullScreenBgActivity
+          
+          
+          //可以向这个活动分享二维码图片 ： com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity
+          
+//           launchApplicationByPackageName(packageName, url, activityName); // 启动应用。
+        
+          break;
+        } //if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
+      } //for(VoicePackageMapJsonItem : urlList)
+
+        return result;
+    } //public OpenMethod getOpenMethod(String url)
+    
+    /**
     *  打开网址。陈欣。
     */
     public void openUrl(String url)
@@ -258,7 +315,7 @@ public class SmartUrl
           String packageName=currentMap.getPackageName();
           String activityName=currentMap.getActivityName(); // 获取活动名字。
           
-        Log.d(TAG, "openUrl, package name: " + packageName + ", package url: " + currentMap.packageUrl + ", url: " + url); // Debug.
+          Log.d(TAG, "openUrl, package name: " + packageName + ", package url: " + currentMap.packageUrl + ", url: " + url); // Debug.
 //           /Data/图片/Screenshot_20211204_104108.png
 // https://qr.alipay.com/tsx09358qau1du34ryj8u88
 

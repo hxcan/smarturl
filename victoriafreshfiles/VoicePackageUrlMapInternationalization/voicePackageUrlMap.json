@@ -236,8 +236,8 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.android.msp.ui.views.MspUniRenderActivity",
-      "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
+      "activityName": "com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity",
+      "method":"QrCode",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
     {

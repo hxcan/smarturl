@@ -44,16 +44,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/16/162607/6811bc17b9384e9bb551d63e6fac985f.apk",
-      "voiceCommand": "梦幻花园",
-      "packageName": "com.ledou.mhhy",
-      "versionName": "4.1.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1527737&SoftItemId=4475589",
-      "extraPackageNames": [
-        "com.ledou.mhhy.mi"
-      ]
-    },
-    {
       "informationUrl": "https://apkpure.com/whatsapp-messenger/com.whatsapp",
       "voiceCommand": "whatsapp",
       "packageName": "com.whatsapp",
@@ -89,13 +79,6 @@
       "packageName": "jp.co.ponos.superstarizone",
       "versionName": "1.2.11",
       "packageUrl": "https://d-32.winudf.com/b/APK/anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmVfNTY4XzUyZGVjYzIw?_fn=U1VQRVJTVEFSIElaIE9ORV92MS4yLjExX2Fwa3B1cmUuY29tLmFwaw&_p=anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmU&am=A_LoNcd3gYY4U_GF0HWVEg&at=1627349432&k=854ad11a55f175527584766a8704068a6100b33a"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/46A24331F18F76627808FDBB47E492A9.apk?fsname=paint.by.number.pixel.art.coloring.drawing.puzzle_2.56.33_10022.apk&csr=03a5",
-      "voiceCommand": "数字填色",
-      "packageName": "paint.by.number.pixel.art.coloring.drawing.puzzle",
-      "versionName": "2.56.33",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1670795&SoftItemId=4479133"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/0dd846658bd5445938f24e300ff223e2523ceb9ea/eyJhcGt2IjoyNjAyOCwibmFtZSI6ImNvbS5hbGlnYW1lcy5rdWFuZy5reWJjLm1pIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/0233456f213175e28cbac10278f310be",
@@ -253,7 +236,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.mobile.quinox.splash.ShareDispenseActivity",
+      "activityName": "com.alipay.android.msp.ui.views.MspUniRenderActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -343,11 +326,6 @@
       "voiceCommand": "安卓即音箱",
       "packageName": "com.stupidbeauty.androidasasoundbox.player",
       "versionName": "2020.2.13"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/0799274b9e690462128b1fd8a75bf9e6252d4306f/eyJhcGt2IjoiMTkwMzYiLCJuYW1lIjoiY29tLmFsaWdhbWVzLmt1YW5nLmt5YmMubWkiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/1445d149cb6c05d724c6f031820b1e68",
-      "voiceCommand": "狂野飙车9：竞速传奇",
-      "packageName": "com.aligames.kuang.kybc.mi"
     },
     {
       "informationUrl": "https://apkpure.com/upwork-for-freelancers/com.upwork.android.apps.main",
@@ -605,13 +583,6 @@
       "versionName": "3.7.9"
     },
     {
-      "packageUrl": "https://downali.game.uc.cn/s/6/6/20210617001004_com.ea.games.r3_row.uc.apk?x-oss-process=udf/uc-apk,ZBHDlzR0KFhnS8K9wpLCng==2a4cf1b902956e23&sh=10&sf=83655704&vh=b12f27bebce06e7b7df4a847a3239c0a&cc=1301483938&did=ae5a37783e61482583863c58780b281d",
-      "voiceCommand": "真实赛车3",
-      "packageName": "com.ea.games.r3_row",
-      "versionName": "9.4.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1723457&SoftItemId=4480075"
-    },
-    {
       "informationUrl": "https://apkpure.com/bricks-ball-crusher/com.iposedon.bricksbreakerballs",
       "voiceCommand": "Bricks Ball Crusher",
       "packageName": "com.iposedon.bricksbreakerballs",
@@ -695,13 +666,6 @@
       "packageName": "com.sinyee.babybus.drinks",
       "versionName": "9.57.50.10",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=457474&SoftItemId=4482352"
-    },
-    {
-      "informationUrl": "https://apkpure.com/wonderball-one-touch-smash/com.pmstudio.wonderball",
-      "voiceCommand": "Wonderball - One Touch Smash",
-      "packageName": "com.pmstudio.wonderball",
-      "versionName": "1.2.5",
-      "packageUrl": "https://d-06.winudf.com/b/apk/Y29tLnBtc3R1ZGlvLndvbmRlcmJhbGxfMzNfYjljOGNiYjg?_fn=V29uZGVyYmFsbCBPbmUgVG91Y2ggU21hc2hfdjEuMi41X2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLnBtc3R1ZGlvLndvbmRlcmJhbGw&am=4-NwtVk3WJ3NY8vsm6V5zg&at=1627698154&k=ef0b4e463ea2fb76294b7799cbf8cce56106056c"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1650120&SoftItemId=4490095",

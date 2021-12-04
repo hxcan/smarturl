@@ -23,13 +23,6 @@
       "packageUrl": "http://113.96.154.184/imtt.dd.qq.com/16891/apk/D4BB7CA4105FBE3D6730E58FB16D56FF.apk?mkey=6108ff1371765727&f=8fee&fsname=com.szzc_7.5.0_143.apk&csr=03a5&cip=113.118.113.210&proto=http"
     },
     {
-      "packageUrl": "http://222.78.93.121:49155/imtt.dd.qq.com/16891/apk/348AAB265DC72879F1F2153493CFED2B.apk?mkey=616a689872066c88be82e0fc795d682b&arrive_key=93706206756&fsname=cn.com.drivedu.chexuetang_4.9.8_202.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "车学堂",
-      "packageName": "cn.com.drivedu.chexuetang",
-      "versionName": "4.9.8",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=457082&SoftItemId=4523710"
-    },
-    {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1643859&SoftItemId=4486293",
       "voiceCommand": "个人所得税",
       "packageName": "cn.gov.tax.its",
@@ -122,14 +115,6 @@
       "extraPackageNames": [
         "com.aligames.kuang.kybc.mi"
       ]
-    },
-    {
-      "packageUrl": "http://110.85.21.158:49155/imtt.dd.qq.com/16891/apk/7072E010CDD9B11D9D50A44100EE8AD1.apk?mkey=616a4af9f7fc68882482e0fc9e15739b&arrive_key=169027640789&fsname=org.mozilla.firefox_93.1.0_2015836873.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "火狐浏览器",
-      "packageName": "org.mozilla.firefox",
-      "versionName": "93.1.0",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_8106_1633524645/96",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=62890&SoftItemId=4544710"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0f1244f8724b616fe07a065b9d3fba25c1b41e0cb/com.chinamworld.main.apk",
@@ -266,13 +251,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=138844&SoftItemId=4471257"
     },
     {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/EC91D3538D6FBFF4F990BB4577D83825.apk?fsname=com.ichinait.gbpassenger_9.0.1_63386.apk&csr=03a5",
-      "voiceCommand": "首汽约车",
-      "packageName": "com.ichinait.gbpassenger",
-      "versionName": "9.0.1",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=138844&SoftItemId=4471257"
-    },
-    {
       "informationUrl": "https://apkpure.com/train-station-2-railroad-tycoon-train-conductor/com.pixelfederation.ts2",
       "voiceCommand": "Train Station 2: Railroad Tycoon & Train Conductor",
       "packageName": "com.pixelfederation.ts2",
@@ -305,7 +283,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.android.msp.ui.views.MspSettingsActivity",
+      "activityName": "com.alipay.mobile.quinox.SchemeLauncherActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -355,13 +333,6 @@
       "packageName": "com.didapinche.booking",
       "versionName": "8.10.86",
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/22/101950/5e41ccb1bda643048c0f8d759dd821e6.apk"
-    },
-    {
-      "informationUrl": "https://apkpure.com/galaxy-reavers-starships-rts/com.good.GalaxyReaversGame",
-      "voiceCommand": "Galaxy Reavers",
-      "packageName": "com.good.GalaxyReaversGame",
-      "versionName": "1.2.22",
-      "packageUrl": "https://d-01.winudf.com/b/XAPK/Y29tLmdvb2QuR2FsYXh5UmVhdmVyc0dhbWVfMzdfMzVkN2VjM2Q?_fn=R2FsYXh5IFJlYXZlcnMgU3RhcnNoaXBzIFJUU192MS4yLjIyX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLmdvb2QuR2FsYXh5UmVhdmVyc0dhbWU&am=D-M0lvPuixML55BVO53Hlg&at=1627809168&k=d2445d55727f58eafd96f3e2134279d46107b711"
     },
     {
       "packageUrl": "https://d-10.winudf.com/b/APK/ZmkudHdvbWVuYW5kYWRvZy53YWxrbWFzdGVyXzQ5M182NmEwYzlhYg?_fn=V2FsayBNYXN0ZXJfdjEuNDJfYXBrcHVyZS5jb20uYXBr&_p=ZmkudHdvbWVuYW5kYWRvZy53YWxrbWFzdGVy&am=x6zDCpn5za7ArShsGcLTbg&at=1634371372&k=65f82eb0c15bee4b6f3274d2e8121fb7616bd8ad",
@@ -463,13 +434,6 @@
       "packageName": "al.trigonom.fourninja",
       "versionName": "2.1.1",
       "informationUrl": "https://m.apkpure.com/4-ninja-training/al.trigonom.fourninja"
-    },
-    {
-      "packageUrl": "https://d-14.winudf.com/b/XAPK/Y29tLnR3aXR0ZXIuYW5kcm9pZF8yOTE1MTAwMF85YmNlMjVmZg?_fn=VHdpdHRlcl92OS4xNS4xLXJlbGVhc2UuMDBfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLnR3aXR0ZXIuYW5kcm9pZA&am=a0qww9WBXeRY5EC-znL6jQ&at=1634356712&k=2272393f830c14b0cd5718e3cdfa7d12616b9f69",
-      "voiceCommand": "推特",
-      "packageName": "com.twitter.android",
-      "informationUrl": "https://apkpure.com/twitter/com.twitter.android",
-      "versionName": "9.15.1-release.00"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=38215&SoftItemId=4483680",
@@ -908,13 +872,6 @@
       "packageName": "com.sd.smalllovecar",
       "versionName": "6.0.7",
       "informationUrl": "https://app.mi.com/details?id=com.sd.smalllovecar&ref=search"
-    },
-    {
-      "packageUrl": "http://222.218.81.27/imtt.dd.qq.com/16891/apk/ECBDEA77ADE5620E61220CBB8A0684CA.apk?mkey=60fd1ce271764f43&f=0ee9&fsname=com.b6b.g1kv.ot8j_1.0.4_5.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "西瓜PDF阅读器",
-      "packageName": "com.b6b.g1kv.ot8j",
-      "versionName": "1.0.4",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1711508&SoftItemId=4405289"
     },
     {
       "packageUrl": "http://121.14.142.197/imtt.dd.qq.com/16891/apk/83EB6634C39FB43EBF23E681A7C73CBE.apk?mkey=60fd1d0271764f43&f=0f9e&fsname=com.pedesx.sjjz_1.0.7_326.apk&csr=03a5&cip=113.118.105.182&proto=http",

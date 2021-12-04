@@ -284,6 +284,9 @@ public class SmartUrl
 // com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspSettingsActivity
 // com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.FullScreenBgActivity
           
+          
+          //可以向这个活动分享二维码图片 ： com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity
+          
           launchApplicationByPackageName(packageName, url, activityName); // 启动应用。
         
           break;

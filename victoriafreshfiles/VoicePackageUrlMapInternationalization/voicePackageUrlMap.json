@@ -199,13 +199,6 @@
       "packageUrl": "https://d-15.winudf.com/b/APK/anAuZ2xlZS5naXJsXzk4XzVhNmQxYzBk?_fn=5pS-572u5bCR5aWzIOOAnOeZvuiKsee5muS5seOBruiQjOWnq-OBn-OBoV92MS40MDAuOThfYXBrcHVyZS5jb20uYXBr&_p=anAuZ2xlZS5naXJs&am=C475WtAKPkHkLBD_5gXoeQ&at=1627994238&k=914eb219688a47762facf7cbed1a009b610a89ff"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/28/093123/a379502159e24b7d9c6eb50e41b6e618.apk",
-      "voiceCommand": "闲鱼",
-      "packageName": "com.taobao.idlefish",
-      "versionName": "7.1.30",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=918908&SoftItemId=4484929"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/08212d2046d45481fbb1468302a4246420dfd467e/com.esbook.reader.apk",
       "voiceCommand": "宜搜小说",
       "packageName": "com.esbook.reader",
@@ -364,7 +357,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.eg.android.AlipayGphone.AlipayLogin",
+      "activityName": "com.eg.android.AlipayGphone.FastStartActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -452,13 +445,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1520197&SoftItemId=4483100"
     },
     {
-      "informationUrl": "https://apkpure.com/brick-out-shoot-the-ball/com.puzzle1studio.go.brickoutshoottheball",
-      "voiceCommand": "Brick Out",
-      "packageName": "com.puzzle1studio.go.brickoutshoottheball",
-      "versionName": "21.0729.00",
-      "packageUrl": "https://d-02.winudf.com/b/APK/Y29tLnB1enpsZTFzdHVkaW8uZ28uYnJpY2tvdXRzaG9vdHRoZWJhbGxfMTAyX2NjOTI4YTRh?_fn=QnJpY2sgT3V0IFNob290IHRoZSBiYWxsX3YyMS4wNzI5LjAwX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLnB1enpsZTFzdHVkaW8uZ28uYnJpY2tvdXRzaG9vdHRoZWJhbGw&am=z5x0YH6m2awRbEJrsd3ZjA&at=1628040807&k=67882de0cc3797f403becb31bc07776a610b3fe9"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0eff741214fd87604f99f69e3a79420196f416da9/com.sinyee.babybus.memory.apk",
       "voiceCommand": "宝宝记忆达人",
       "packageName": "com.sinyee.babybus.memory",
@@ -527,13 +513,6 @@
       "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJvdmlvLmRyZWFtX2ljb25fMTYzMzA3MDA1NV8wMTA/icon.png?w=340&fakeurl=1"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=178879&SoftItemId=4451405",
-      "voiceCommand": "猜猜哪不对",
-      "packageName": "com.sinyee.babybus.findchaII",
-      "versionName": "9.57.00.00",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/ABB56176C4F2E51B107AA32AFEAD8272.apk?fsname=com.sinyee.babybus.findchaII_9.57.00.00_9570000.apk&csr=03a5"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/02cb2d183ec6d4b6e9db3bcc10d07393f6713e8ba/com.citiccard.mobilebank.apk",
       "voiceCommand": "动卡空间",
       "packageName": "com.citiccard.mobilebank",
@@ -586,13 +565,6 @@
       "voiceCommand": "语音数据分析器",
       "packageName": "com.stupidbeauty.hxlauncher.voicecommandhitdataprocessor",
       "versionName": "1145.2019.6.1"
-    },
-    {
-      "packageUrl": "http://110.85.21.222:49155/imtt.dd.qq.com/16891/apk/93F7D38C94CA60E2C64A190B523FDE4F.apk?mkey=616a61ca625c8c298b82e0fcde15739b&arrive_key=309505571409&fsname=com.kk.dict_4.4.5_4405.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "快快查汉语字典",
-      "packageName": "com.kk.dict",
-      "versionName": "4.4.5",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=146716&SoftItemId=4540246"
     },
     {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/BC5D06A18CC5572F144A59E244988738.apk?fsname=com.uroad.unitoll_5.0.4_20201010.apk&csr=03a5",
@@ -695,20 +667,6 @@
       "packageUrl": "https://d-13.winudf.com/b/APK/Y2MuZHJlYW1zcGFyay5pbnRlcnZhbHRpbWVyXzIzMTAwMF82YjkyYmZjZg?_fn=SW50ZXJ2YWwgVGltZXJfdjIuMy4xX2Fwa3B1cmUuY29tLmFwaw&_p=Y2MuZHJlYW1zcGFyay5pbnRlcnZhbHRpbWVy&am=dOvwjBMx3ShkkxnIGssD8Q&at=1627434685&k=edcb9af7bb3e9a65ef976ee75e69b2526102003f"
     },
     {
-      "informationUrl": "https://apkpure.com/firefox-lockwise/mozilla.lockbox",
-      "voiceCommand": "Firefox Lockwise",
-      "packageName": "mozilla.lockbox",
-      "versionName": "4.0.1",
-      "packageUrl": "https://d-15.winudf.com/b/APK/bW96aWxsYS5sb2NrYm94XzYzNDlfOTc3ODdmODE?_fn=RmlyZWZveCBMb2Nrd2lzZV92NC4wLjFfYXBrcHVyZS5jb20uYXBr&_p=bW96aWxsYS5sb2NrYm94&am=_mq6dMktKikuoRcPyHP3gQ&at=1627366390&k=c9e7b5a112e456e8a9692bc02d81cdc86100f577"
-    },
-    {
-      "informationUrl": "https://apkpure.com/onnect-pair-matching-puzzle/com.gamebility.onet",
-      "voiceCommand": "配对拼图",
-      "packageName": "com.gamebility.onet",
-      "versionName": "10.3",
-      "packageUrl": "https://d-10.winudf.com/b/APK/Y29tLmdhbWViaWxpdHkub25ldF8yMDAxOTJfZTMxYzY0Y2I?_fn=T25uZWN0IFBhaXIgTWF0Y2hpbmcgUHV6emxlX3YxMC4zX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmdhbWViaWxpdHkub25ldA&am=sSAbd1i3m9vwkuK9JobP-w&at=1628081768&k=f37f255c27178a481b41755bbf716d85610bdfea"
-    },
-    {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/14/093418/5afc9da8725f41e7a63ae17eff8666b8.apk",
       "voiceCommand": "myOffer 留学",
       "packageName": "com.myoffer.activity",
@@ -720,13 +678,6 @@
       "voiceCommand": "疯狂的球球",
       "packageName": "com.mars.fkdqq.nubia",
       "versionName": "1.0.3"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/09bae0287049c42c1857b3ac2bd39dde828b9328b/eyJhcGt2IjoyMDAwNDAzMDAwLCJuYW1lIjoiY29tLnVzdHdvLm1vbnVtZW50dmFsbGV5enoiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzM0NV9hbmRyb2lkIiwibWQ1IjpmYWxzZX0/9a7c7b6b5b1b874b09fbae5451ffb718",
-      "voiceCommand": "纪念碑谷",
-      "packageName": "com.ustwo.monumentvalleyzz",
-      "versionName": "2.4.3",
-      "informationUrl": "https://app.mi.com/details?id=com.ustwo.monumentvalleyzz&ref=search"
     },
     {
       "packageUrl": "http://121.14.142.197/imtt.dd.qq.com/16891/apk/492EDB649F4A84E837A65229389282CE.apk?mkey=60fd18e871764f43&f=8d86&fsname=com.ehai_6.6.80_6680.apk&csr=03a5&cip=113.118.105.182&proto=http",
@@ -838,15 +789,6 @@
       "versionName": "3.7.9"
     },
     {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/07ea85a2bdff95b59479a6dbb50bea034f242f4a7/eyJhcGt2IjoiMTY1OTUzIiwibmFtZSI6ImNvbS5uZXRlYXNlLnl5c2J3cC5taSIsInZlcnNpb24iOiIxLjAiLCJjaWQiOiJtZW5nXzE0MzlfNV9hbmRyb2lkIiwibWQ1IjpmYWxzZX0/a0bc97ee398291350a0b53ef2ca0010a",
-      "voiceCommand": "阴阳师:百闻牌",
-      "packageName": "com.netease.yysbwp.aligames",
-      "versionName": "1.0.8501",
-      "extraPackageNames": [
-        "com.netease.yysbwp.mi"
-      ]
-    },
-    {
       "packageUrl": "https://downali.game.uc.cn/s/6/6/20210617001004_com.ea.games.r3_row.uc.apk?x-oss-process=udf/uc-apk,ZBHDlzR0KFhnS8K9wpLCng==2a4cf1b902956e23&sh=10&sf=83655704&vh=b12f27bebce06e7b7df4a847a3239c0a&cc=1301483938&did=ae5a37783e61482583863c58780b281d",
       "voiceCommand": "真实赛车3",
       "packageName": "com.ea.games.r3_row",
@@ -956,12 +898,6 @@
       "versionName": "5.29"
     },
     {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/0a3ed4d8961a980b4fe6901c63f8b55789140c1e3/eyJhcGt2IjoiMTAiLCJuYW1lIjoiY29tLmxlbml1Lnhsd3kubWkiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/3a8d84f290e64b44ef50d6e396f59bc3",
-      "voiceCommand": "驯龙物语",
-      "packageName": "com.leniu.xlwy.guopan",
-      "versionName": "10.0"
-    },
-    {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/18CE163D8D2F21F797660E4637B00146.apk?fsname=com.sinyee.babybus.boat_9.56.00.00_9560000.apk&csr=03a5",
       "voiceCommand": "宝宝小船长",
       "packageName": "com.sinyee.babybus.boat",
@@ -1052,13 +988,6 @@
       "packageName": "com.PPGame.Onnect",
       "versionName": "1.3.3",
       "packageUrl": "https://d-01.winudf.com/b/XAPK/Y29tLlBQR2FtZS5Pbm5lY3RfMTZfYzJmNGRhYjc?_fn=VGlsZSBPbm5lY3QgTWF0Y2hpbmcgUHV6emxlX3YxLjMuM19hcGtwdXJlLmNvbS54YXBr&_p=Y29tLlBQR2FtZS5Pbm5lY3Q&am=Tsv4FmzuO1Fcso1qE-Qhhw&at=1627907760&k=3128b6594c88a172525d7a6906c06a3361093831"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=150167&SoftItemId=4486435",
-      "voiceCommand": "Faceu激萌",
-      "packageName": "com.lemon.faceu",
-      "versionName": "5.9.4",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/CFE9A1DC6CFCF1927FF763D420C4F212.apk?fsname=com.lemon.faceu_5.9.4_5942.apk&csr=03a5"
     },
     {
       "informationUrl": "https://apkpure.com/simple-soroban/br.net.btco.soroban",

@@ -172,15 +172,15 @@ public class SmartUrl
         Log.d(TAG, "launchApplication, launch intent: " + launchIntent); //Debug.
         try //尝试启动活动，并且捕获可能的异常。
         {
-            if (launchIntent!=null) //启动意图存在。
-            {
-//                     Intent i = new Intent(Intent.ACTION_VIEW);
-//       i.setData(Uri.parse(url));
-                      launchIntent.setAction(Intent.ACTION_VIEW);
-      launchIntent.setData(Uri.parse(url));
+//           Intent i = new Intent(Intent.ACTION_VIEW);
+//           i.setPackage(launchIntent.getPackageName()); // 设置包名。
+//           i.setData(Uri.parse(url));
 
-                       context.startActivity(launchIntent); //启动活动。
-            } //                    if (launchIntent!=null) //启动意图存在。
+//                       launchIntent.setAction(Intent.ACTION_VIEW);
+//       launchIntent.setData(Uri.parse(url));
+
+//                        context.startActivity(i); //启动活动。
+            context.startActivity(launchIntent); //启动活动。
 
             result=true; //启动成功
         } //try //尝试启动活动，并且捕获可能的异常。
@@ -274,15 +274,18 @@ public class SmartUrl
     private boolean launchApplicationByPackageName(String packageName, String url)
     {
         boolean result=false; //启动结果
-        PackageManager packageManager=context.getPackageManager(); //获取软件包管理器。
+//         PackageManager packageManager=context.getPackageManager(); //获取软件包管理器。
 
-        Intent launchIntent= packageManager.getLaunchIntentForPackage(packageName); //获取当前软件包的启动意图。
+//         陈欣
+//         Intent launchIntent= packageManager.getLaunchIntentForPackage(packageName); //获取当前软件包的启动意图。
+                    Intent i = new Intent(Intent.ACTION_VIEW);
+                    i.setPackage(packageName); // 设置包名。
+      i.setData(Uri.parse(url));
 
-        if (launchIntent!=null) //意图存在。
         {
             try //尝试启动活动，并且捕获可能的异常。
             {
-              launchApplication(launchIntent, url); //启动活动。
+              launchApplication(i, url); //启动活动。
 
               result=true; //成功
             } //try //尝试启动活动，并且捕获可能的异常。
@@ -391,106 +394,4 @@ public class SmartUrl
             });
         } //else if (command.equals("EPSV")) // Extended passive mode.
     } //private void processCommand(String command, String content)
-
-    /**
-    * 上传文件内容。
-    */
-    private void startStor(String data51, String currentWorkingDirectory) 
-    {
-        String wholeDirecotoryPath= rootDirectory.getPath() + currentWorkingDirectory+data51; // 构造完整路径。
-                    
-        wholeDirecotoryPath=wholeDirecotoryPath.replace("//", "/"); // 双斜杠替换成单斜杠
-                    
-        Log.d(TAG, "startStor: wholeDirecotoryPath: " + wholeDirecotoryPath); // Debug.
-                    
-        File photoDirecotry= new File(wholeDirecotoryPath); //照片目录。
-            
-        writingFile=photoDirecotry; // 记录文件。
-        isUploading=true; // 记录，处于上传状态。
-
-//             陈欣
-
-        if (photoDirecotry.exists())
-        {
-            photoDirecotry.delete();
-        }
-        
-        try //尝试构造请求对象，并且捕获可能的异常。
-		{
-            FileUtils.touch(photoDirecotry); //创建文件。
-        } //try //尝试构造请求对象，并且捕获可能的异常。
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}
-    } //private void startStor(String data51, String currentWorkingDirectory) // 上传文件内容。
-
-    /**
-     * 接受新连接
-     * @param socket 新连接的套接字对象
-     */
-    public void handleAccept(final AsyncSocket socket)
-    {
-        this.socket=socket;
-        System.out.println("[Server] New Connection " + socket.toString());
-
-        socket.setDataCallback(
-                new DataCallback()
-                {
-            @Override
-            public void onDataAvailable(DataEmitter emitter, ByteBufferList bb) {
-                String content = new String(bb.getAllByteArray());
-                Log.d(TAG, "[Server] Received Message " + content); // Debug
-
-                String command = content.split(" ")[0]; // Get the command.
-
-
-                command=command.trim();
-
-                processCommand(command, content); // 处理命令。
-            }
-        });
-
-        socket.setClosedCallback(new CompletedCallback() {
-            @Override
-            public void onCompleted(Exception ex) {
-                if (ex != null) {
-//                 throw new RuntimeException(ex);
-ex.printStackTrace(); // 报告错误。
-                }
-                else
-                {
-                System.out.println("[Server] Successfully closed connection");
-                }
-                
-            }
-        });
-
-        socket.setEndCallback(new CompletedCallback() {
-            @Override
-            public void onCompleted(Exception ex) {
-                if (ex != null) // 有异常出现
-                {
-//                 throw new RuntimeException(ex);
-                    ex.printStackTrace(); // 报告。
-                }
-                else // 无异常
-                {
-                    Log.d(TAG, "ftpmodule [Server] Successfully end connection");
-                } //else // 无异常
-            }
-        });
-
-        //发送初始命令：
-//        send_data "220 \n"
-
-        Util.writeAll(socket, "220 BuiltinFtp Server\n".getBytes(), new CompletedCallback() {
-            @Override
-            public void onCompleted(Exception ex) 
-            {
-                if (ex != null) throw new RuntimeException(ex);
-                System.out.println("[Server] Successfully wrote message");
-            } //public void onCompleted(Exception ex) 
-        });
-    } //private void handleAccept(final AsyncSocket socket)
 }

@@ -9,6 +9,16 @@ public class OpenMethod
 
   private String method;
     public static final String DELETE = "com.stupidbeauty.ftpserver.lib.delete"; //!< 文件被删除。
+    
+    public String getMethod()
+    {
+      return method;
+    }
+    
+    public String getActivityName()
+    {
+      return activityName;
+    }
 
     public void setActivityName(String activityNameToSet)
     {

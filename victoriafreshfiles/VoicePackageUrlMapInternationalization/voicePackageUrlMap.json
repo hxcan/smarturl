@@ -37,14 +37,6 @@
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/767501E0780D592890EE78E896B0A05B.apk?fsname=cn.gov.tax.its_1.6.9_10609.apk&csr=03a5"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=391723&SoftItemId=4543910",
-      "voiceCommand": "天眼查",
-      "packageName": "com.tianyancha.skyeye",
-      "versionName": "12.39.1",
-      "packageUrl": "http://140.237.234.110:49155/imtt.dd.qq.com/16891/apk/339351325A7EE5809D879D9AF9923CB9.apk?mkey=616a444a1b55f1fbe481e0fc6eeacb79&arrive_key=71112399023&fsname=com.tianyancha.skyeye_12.39.1_411.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42259478_1632993520/96"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0e0d456058dc26047cbb6945107e9269207401c43/com.csair.mbp.apk",
       "voiceCommand": "南方航空",
       "packageName": "com.csair.mbp",
@@ -57,12 +49,6 @@
       "iconUrl":"https://c1-appstore.nubia.com/data/upload/icon/2021/10/8/1633666044191/icon.webp",
       "versionName": "8.0.16",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0fc8f55be3dae470d27ebe504be5295c4f80b1d36/com.tencent.qqmusic.apk",
-      "voiceCommand": "QQ音乐",
-      "packageName": "com.tencent.qqmusic",
-      "versionName": "10.7.0.7"
     },
     {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/16/162607/6811bc17b9384e9bb551d63e6fac985f.apk",
@@ -113,13 +99,6 @@
       "extraPackageNames": [
         "air.jp.globalgear.ptomo.fhp"
       ]
-    },
-    {
-      "informationUrl": "http://m.appstore.nubia.com/detailedness.html?SoftId=35785&SoftItemId=4469503",
-      "packageUrl": "http://125.77.17.33/imtt.dd.qq.com/16891/apk/1F7EE1EA5E55867879527809F840CCCF.apk?mkey=60ff79137176402f&f=9946&fsname=com.kdanmobile.android.pdfreader.google.pad_oppo_5.1.5_90416026.apk&csr=03a5&cip=113.118.102.218&proto=http",
-      "voiceCommand": "PDF Reader",
-      "packageName": "com.kdanmobile.android.pdfreader.google.pad",
-      "versionName": "oppo_5.1.5"
     },
     {
       "informationUrl": "https://apkpure.com/superstar-iz-one/jp.co.ponos.superstarizone",
@@ -275,22 +254,6 @@
       "versionName": "4.1.4"
     },
     {
-      "packageUrl": "http://110.85.21.163:49155/imtt.dd.qq.com/16891/apk/7FE35E1175535BB800FC4C8F5AC0874B.apk?mkey=616a48904bcd7c2f198b4dfca315739b&arrive_key=62655763748&fsname=com.tencent.mobileqq_8.8.33_2150.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "QQ",
-      "packageName": "com.tencent.mobileqq",
-      "versionName": "8.8.33",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6633_1632929230/96",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49413&SoftItemId=4542949"
-    },
-    {
-      "packageUrl": "https://d-21.winudf.com/b/XAPK/bmV0LmRheWxpb18xNjBfZWU2ZGVjODI?_fn=RGF5bGlvIERpYXJ5IEpvdXJuYWwgTW9vZCBUcmFja2VyX3YxLjQxLjBfYXBrcHVyZS5jb20ueGFwaw&_p=bmV0LmRheWxpbw&am=4fBSdKbh4HkJ-VyR6vYqbw&at=1634364075&k=8aefa0a8bdba4cf7d9fc9210c9534f47616bbc2c&uu=http%3A%2F%2F172.16.70.1%2Fb%2FXAPK%2FbmV0LmRheWxpb18xNjBfZWU2ZGVjODI%3Fk%3Df26bc9673f77665c605f0a0b13e36e06616bbc2c",
-      "voiceCommand": "Daylio",
-      "packageName": "net.daylio",
-      "versionName": "1.41.0",
-      "iconUrl": "https://image.winudf.com/v2/image1/bmV0LmRheWxpb19pY29uXzE1NzE5MTc2MTRfMDI3/icon.png?w=340&fakeurl=1",
-      "informationUrl": "https://apkpure.com/daylio-diary-journal-mood-tracker/net.daylio"
-    },
-    {
       "packageUrl": "https://d-31.winudf.com/b/apk/Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg?_fn=MjA0OCBDbGFzc2ljX3Y0LjEuNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWM&am=P5VOdhnH7J4S-bblYzfyEg&k=cadf140f040f158b386f0ecdfa6566645ea3eedb&uu=http%3A%2F%2F172.16.79.1%2Fb%2Fapk%2FY29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg%3Fk%3D7bb12135ea2fe11addb17cb4b3146c1c5ea3eedb",
       "voiceCommand": "2048",
       "packageName": "com.s2apps.game2048classic"
@@ -310,26 +273,11 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=138844&SoftItemId=4471257"
     },
     {
-      "informationUrl": "https://apkpure.com/okta-verify/com.okta.android.auth",
-      "voiceCommand": "Okta Verify",
-      "packageName": "com.okta.android.auth",
-      "versionName": "6.8.1",
-      "packageUrl": "https://d-10.winudf.com/b/APK/Y29tLm9rdGEuYW5kcm9pZC5hdXRoXzUwMDAyMTkxXzIzZGExMjYz?_fn=T2t0YSBWZXJpZnlfdjYuOC4xX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLm9rdGEuYW5kcm9pZC5hdXRo&am=-wLMS3ahfT5p5xbbS6Cy3w&at=1634364679&k=48f57aeb4617ed834f2757846437a44c616bbe87",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm9rdGEuYW5kcm9pZC5hdXRoX2ljb25fMTYwNjc4MzE0NV8wNjc/icon.png?w=340&fakeurl=1"
-    },
-    {
       "informationUrl": "https://apkpure.com/train-station-2-railroad-tycoon-train-conductor/com.pixelfederation.ts2",
       "voiceCommand": "Train Station 2: Railroad Tycoon & Train Conductor",
       "packageName": "com.pixelfederation.ts2",
       "versionName": "1.38.2",
       "packageUrl": "https://d-01.winudf.com/b/XAPK/Y29tLnBpeGVsZmVkZXJhdGlvbi50czJfMjgwNV83ODUzYmJiYw?_fn=VHJhaW4gU3RhdGlvbiAyIFJhaWxyb2FkIFR5Y29vbiBUcmFpbiBDb25kdWN0b3JfdjEuMzguMl9hcGtwdXJlLmNvbS54YXBr&_p=Y29tLnBpeGVsZmVkZXJhdGlvbi50czI&am=zB2Ktx5sVXljXmokw8meDA&at=1627994016&k=86148273133e51e425de645780e9af68610a8921"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1709555&SoftItemId=4537599",
-      "voiceCommand": "上汽荣威",
-      "packageName": "com.saicmotor.tocapp",
-      "versionName": "2.4.15",
-      "packageUrl": "http://110.85.21.213:49155/imtt.dd.qq.com/16891/apk/443561D2F4D22F16D84C5EC23402BC83.apk?mkey=616a7a32c55677df5e170cfcd515739b&arrive_key=54075476738&fsname=com.saicmotor.tocapp_2.4.15_20210923.apk&csr=03a5&cip=113.118.103.10&proto=http"
     },
     {
       "informationUrl": "https://apkpure.com/conway-s-game-of-life/com.baiels.gameoflife",
@@ -357,7 +305,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.eg.android.AlipayGphone.FastStartActivity",
+      "activityName": "com.alipay.android.msp.ui.views.MspSettingsActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -465,15 +413,6 @@
       "packageUrl": "https://d-04.winudf.com/b/XAPK/Y29tLnZpZGVvZG93bmxvYWRlci50d2l0dGVydmlkZW9pbmRpcl81MF8zODJiODkwNA?_fn=VmlkZW8gRG93bmxvYWRlciBmb3IgVHdpdHRlcl92My41LjBfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLnZpZGVvZG93bmxvYWRlci50d2l0dGVydmlkZW9pbmRpcg&am=qlWvIY86SDp2bRaWnO0fPg&at=1627699410&k=57b83f526df0c5f7598743fca4438ca661060a53"
     },
     {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/010dd578f642fc870623845fa997963e8c540efdf/eyJhcGt2IjoiMzIiLCJuYW1lIjoiY3BtLmNhdHNjdXAuanJ0dC5ibm4iLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/0e8e586dafaf9e4ed6d3ed43835cde7e",
-      "voiceCommand": "猫千杯",
-      "packageName": "cpm.catscup.jrtt.bnn",
-      "versionName": "1.0.8",
-      "extraPackageNames": [
-        "cpm.catscup.jrtt"
-      ]
-    },
-    {
       "packageUrl": "https://stupidbeauty.com/ArticleImages/1845/AndroidAsASoundBox-1167.2020.2.13.armv7a.apk",
       "voiceCommand": "安卓即音箱",
       "packageName": "com.stupidbeauty.androidasasoundbox.player",
@@ -554,13 +493,6 @@
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/088D4754D8BAB1E62D76248EAE987E35.apk?fsname=com.netease.mail_6.23.10_215.apk&csr=03a5"
     },
     {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/F62227376A0DC55C740B026D8BB01429.apk?fsname=com.sf.activity_9.30.0_1093000.apk&csr=03a5",
-      "voiceCommand": "顺丰速运",
-      "packageName": "com.sf.activity",
-      "versionName": "9.30.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=177292&SoftItemId=4470202"
-    },
-    {
       "packageUrl": "https://stupidbeauty.com/ArticleImages/1837/VoiceCommandHitDataProcessor.apk",
       "voiceCommand": "语音数据分析器",
       "packageName": "com.stupidbeauty.hxlauncher.voicecommandhitdataprocessor",
@@ -631,14 +563,6 @@
       "packageName": "com.stupidbeauty.hxlauncher",
       "versionName": "11250.2021.9.8",
       "informationUrl": "https://stupidbeauty.com/Blog/article/1837/HxLauncher:%20%E7%81%B5%E6%A1%8C%E9%9D%A2%EF%BC%8C%E4%BB%A5%E8%AF%AD%E9%9F%B3%E6%8C%87%E4%BB%A4%E6%9D%A5%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/94577482A414031B8573258E09B414BF.apk?fsname=com.jd.app.reader_3.22.2_3220201.apk&csr=03a5",
-      "voiceCommand": "京东读书",
-      "packageName": "com.jd.app.reader",
-      "versionName": "3.22.2",
-      "iconUrl":"http://pp.myapp.com/ma_icon/0/icon_52680523_1634896092/96",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1697342&SoftItemId=4557346"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0c8933541e5d145e8180433b60d43957e9141f9e2/com.jiliguala.niuwa.apk",
@@ -823,12 +747,6 @@
       "packageUrl": "https://c1.g.mi.com/package/AppStore/039d3186281e74ef5bef469838c3e76c5c234b3f5/eyJhcGt2Ijo3MDAyOCwibmFtZSI6ImNvbS5ndWFuZGFuLm1pIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/77517609523bef529d61d55a804c9316"
     },
     {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/0d2eb4b74f59c194061c42c45c6523d637b420ca3/eyJhcGt2IjoiMzciLCJuYW1lIjoiY29tLm1vYmlsYXh5LmZpbmR0aGVkaWZmZXJlbmNlaG91c2VzLmd0eCIsInZlcnNpb24iOiIxLjAiLCJjaWQiOiJtZW5nXzE0MzlfNV9hbmRyb2lkIiwibWQ1IjpmYWxzZX0/681fa67a56bb86aa3dd8624366eb1979",
-      "voiceCommand": "房子找茬",
-      "packageName": "com.mobilaxy.findthedifferencehouses",
-      "versionName": "4.0"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/03b20444d6d0b4dd4019375120a1120fa0ed13fd8/com.cqzxkj.goalcountdown.apk",
       "voiceCommand": "目标计划助手",
       "packageName": "com.cqzxkj.goalcountdown",
@@ -839,12 +757,6 @@
       "voiceCommand": "倒计时器",
       "packageName": "com.yuanli.mvpcountdown",
       "versionName": "1.1.5"
-    },
-    {
-      "packageUrl": "https://0e75be2b.qc.x.bsgslb.cn:10443/xdispatch/fga1.market.xiaomi.com/download/AppStore/0d27045f18ea7ae40c0c589b288f94c05a0417743/com.benfu.yiqi.apk",
-      "voiceCommand": "一起",
-      "packageName": "com.benfu.yiqi",
-      "versionName": "1.7.2"
     },
     {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/12/190508/0d68267a1571460c850fa2e91d3519eb.apk",
@@ -871,12 +783,6 @@
       "voiceCommand": "KK直播",
       "packageName": "com.melot.meshow",
       "versionName": "6.8.0"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0ec2b3373efad49298c24a721b3da61390dcee828/com.sinyee.babybus.greenhouse.apk",
-      "voiceCommand": "奇妙鲜花房",
-      "packageName": "com.sinyee.babybus.greenhouse",
-      "versionName": "9.57.00.00"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1640652&SoftItemId=4484849",
@@ -948,13 +854,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=56019&SoftItemId=4473242"
     },
     {
-      "informationUrl": "https://apkpure.com/nova-launcher/com.teslacoilsw.launcher",
-      "voiceCommand": "Nova Launcher",
-      "packageName": "com.teslacoilsw.launcher",
-      "versionName": "6.2.19",
-      "packageUrl": "https://d-12.winudf.com/b/APK/Y29tLnRlc2xhY29pbHN3LmxhdW5jaGVyXzYyMDE5XzU2YjZjMmUx?_fn=Tm92YSBMYXVuY2hlcl92Ni4yLjE5X2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLnRlc2xhY29pbHN3LmxhdW5jaGVy&am=7rUeuqipjvnyJ9jJVEX7Aw&at=1627436269&k=ce99d0b0bbed17e69a55c0028f669c836102066f"
-    },
-    {
       "informationUrl": "https://apkpure.com/black/air.com.bartbonte.black",
       "voiceCommand": "black",
       "packageName": "air.com.bartbonte.black",
@@ -1009,13 +908,6 @@
       "packageName": "com.sd.smalllovecar",
       "versionName": "6.0.7",
       "informationUrl": "https://app.mi.com/details?id=com.sd.smalllovecar&ref=search"
-    },
-    {
-      "packageUrl": "http://183.2.192.153/imtt.dd.qq.com/16891/apk/5B209730AA84CE0DFBF5589A2C32CCF8.apk?mkey=60fd1f9471764f43&f=8fe9&fsname=com.buildtoconnect.pdfreader_oppo_5.1.5_20415112.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "17PDF阅读器",
-      "packageName": "com.buildtoconnect.pdfreader",
-      "versionName": "oppo_5.1.5",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1614653&SoftItemId=4469638"
     },
     {
       "packageUrl": "http://222.218.81.27/imtt.dd.qq.com/16891/apk/ECBDEA77ADE5620E61220CBB8A0684CA.apk?mkey=60fd1ce271764f43&f=0ee9&fsname=com.b6b.g1kv.ot8j_1.0.4_5.apk&csr=03a5&cip=113.118.105.182&proto=http",

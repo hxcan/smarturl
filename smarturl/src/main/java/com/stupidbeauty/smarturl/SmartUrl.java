@@ -256,11 +256,35 @@ public class SmartUrl
         if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
         {
           String packageName=currentMap.getPackageName();
+          String activityName=currentMap.getActivityName(); // 获取活动名字。
           
         Log.d(TAG, "openUrl, package name: " + packageName + ", package url: " + currentMap.packageUrl + ", url: " + url); // Debug.
+//           /Data/图片/Screenshot_20211204_104108.png
+// https://qr.alipay.com/tsx09358qau1du34ryj8u88
+
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.FastStartActivity
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity.alias
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.AppLinksActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.SchemeLauncherActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.framework.service.common.SchemeStartActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareDispenseActivity
+// com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.ResultActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.aompdevice.nfc.AlipayNFCRouterActivity
+// com.eg.android.AlipayGphone/com.alipay.mobile.aompdevice.nfc.AlipayNFCRouterActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.TransProcessPayActivity
+// com.eg.android.AlipayGphone/com.alipay.android.app.TransProcessPayActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.biz.scheme.MspSchemeActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspContainerActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspWebActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspUniRenderActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspSettingsActivity
+// com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.FullScreenBgActivity
           
-          
-          launchApplicationByPackageName(packageName, url); // 启动应用。
+          launchApplicationByPackageName(packageName, url, activityName); // 启动应用。
         
           break;
         } //if (url.startsWith(currentMap.packageUrl)) // 找到匹配的了。
@@ -271,7 +295,7 @@ public class SmartUrl
      * 根据包名启动应用程序。
      * @param packageName 包名。
      */
-    private boolean launchApplicationByPackageName(String packageName, String url)
+    private boolean launchApplicationByPackageName(String packageName, String url, String activityName)
     {
         boolean result=false; //启动结果
 //         PackageManager packageManager=context.getPackageManager(); //获取软件包管理器。
@@ -279,7 +303,8 @@ public class SmartUrl
 //         陈欣
 //         Intent launchIntent= packageManager.getLaunchIntentForPackage(packageName); //获取当前软件包的启动意图。
                     Intent i = new Intent(Intent.ACTION_VIEW);
-                    i.setPackage(packageName); // 设置包名。
+//                     i.setPackage(packageName); // 设置包名。
+                    i.setComponent(new ComponentName(packageName, activityName)); // 设置组件。
       i.setData(Uri.parse(url));
 
         {

@@ -25,6 +25,11 @@ public class OpenMethod
       activityName=activityNameToSet;
     }
     
+    public String getPackageName()
+    {
+      return packageName;
+    }
+    
     public void setPackageName(String packageNameToSet)
     {
       packageName=packageNameToSet;

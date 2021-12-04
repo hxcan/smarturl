@@ -253,7 +253,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.eg.android.AlipayGphone.ResultActivity",
+      "activityName": "com.alipay.mobile.quinox.splash.ShareDispenseActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -355,20 +355,6 @@
       "packageName": "com.upwork.android.apps.main",
       "versionName": "1.38.0",
       "packageUrl": "https://d-04.winudf.com/b/XAPK/Y29tLnVwd29yay5hbmRyb2lkLmFwcHMubWFpbl8zNTRfZjFkMDkxY2E?_fn=VXB3b3JrIGZvciBGcmVlbGFuY2Vyc192MS4zOC4wX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLnVwd29yay5hbmRyb2lkLmFwcHMubWFpbg&am=9pwrVgETAZ2woT5m2eNsvA&at=1627805040&k=624c2089765578d83bf0455b1bd5e2636107a6f1"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/09cab14dea9654e68326ff29cd02cbc33346523b9/com.ss.android.article.news.apk",
-      "voiceCommand": "今日头条",
-      "packageName": "com.ss.android.article.news",
-      "versionName": "8.1.3"
-    },
-    {
-      "packageUrl": "https://d-12.winudf.com/b/APK/Y29tLnJvdmlvLmRyZWFtXzIzOTQ3XzNiMzZiODE4?_fn=QW5ncnkgQmlyZHMgRHJlYW0gQmxhc3RfdjEuMzUuMF9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnJvdmlvLmRyZWFt&am=7XLR1b_505iI_j9WhXkEdA&at=1634365932&k=098466ed7feb2fe7d7e17c48b3903766616bc36d",
-      "voiceCommand": "Angry Birds Dream Blast: Bubble Puzzle Shooter",
-      "packageName": "com.rovio.dream",
-      "informationUrl": "https://apkpure.com/angry-birds-dream-blast/com.rovio.dream",
-      "versionName": "1.35.0",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJvdmlvLmRyZWFtX2ljb25fMTYzMzA3MDA1NV8wMTA/icon.png?w=340&fakeurl=1"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/02cb2d183ec6d4b6e9db3bcc10d07393f6713e8ba/com.citiccard.mobilebank.apk",
@@ -671,24 +657,10 @@
       "versionName": "8.3.0.6"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/09/13/162143/f159146446044eea890ca807e9ba8482.apk",
-      "voiceCommand": "模拟城市：我是市长",
-      "packageName": "com.ea.simcitymobile.nubia",
-      "versionName": "0.56.21323.19479",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1212829&SoftItemId=4527665",
-      "iconUrl": "https://c1-appstore.nubia.com/Developer/ai/2021/09/13/162235/2654111279c9422386a403c34961d5a7.png"
-    },
-    {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/23/160254/721eb72facf34d6b9462e87a453b3645.apk",
       "voiceCommand": "飞猪旅行",
       "packageName": "com.taobao.trip",
       "versionName": "9.8.4.103"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0771a94a9808446cf1c7c5a9d5d3709751fe00b46/com.melot.meshow.apk",
-      "voiceCommand": "KK直播",
-      "packageName": "com.melot.meshow",
-      "versionName": "6.8.0"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1640652&SoftItemId=4484849",
@@ -696,12 +668,6 @@
       "packageName": "com.sinyee.babybus.manor",
       "versionName": "9.57.10.00",
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/13E40FB22672BFD6DCF8701D83F0910A.apk?fsname=com.sinyee.babybus.manor_9.57.10.00_9571000.apk&csr=03a5"
-    },
-    {
-      "packageUrl": "http://113.105.141.165/imtt.dd.qq.com/16891/apk/F5E990D4513707240D41C8578BFA0A8E.apk?mkey=60fd6d6771764f43&f=9634&fsname=com.antutu.benchmark.full_9.0.9-OB_90009000.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "安兔兔评测3D",
-      "packageName": "com.antutu.benchmark.full",
-      "versionName": "9.0.9-OB"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/01ed745e97145a10decd030df0f787b5aa7405bd3/eyJhcGt2IjoiOTIwIiwibmFtZSI6Im9yZy50aW5naG9vZC5UcHNGb3JNb2JpbGUubWkiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/7f7b6d3a58c8e7de2010a82abffcc5ec",

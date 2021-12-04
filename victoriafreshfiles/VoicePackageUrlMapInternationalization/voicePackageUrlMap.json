@@ -7,24 +7,11 @@
       "versionName": "9.3.0"
     },
     {
-      "packageUrl": "http://182.242.141.11/imtt.dd.qq.com/16891/apk/E34197CF2D0E1274B0165D8A01812D04.apk?mkey=60fd77d771764f43&f=9135&fsname=cn.amazon.mShop.android_22.14.4.600_1241208410.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "亚马逊购物",
-      "packageName": "cn.amazon.mShop.android",
-      "versionName": "22.14.4.600"
-    },
-    {
       "packageUrl": "http://222.78.41.119:49155/imtt.dd.qq.com/16891/apk/2028B9FD58BAB9457B98D2D4E7826CCB.apk?mkey=616a14551b55f1fb148b4dfc7729682b&arrive_key=55069643969&fsname=com.ETCPOwner.yc_5.7.0_570.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "ETCP停车",
       "packageName": "com.ETCPOwner.yc",
       "versionName": "5.7.0",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=14924&SoftItemId=4503398"
-    },
-    {
-      "packageUrl": "https://d-03.winudf.com/b/APK/Y29tLnNsaXBweS5saW5lcnVzaGVyXzIwMDE5MF8yNzNhNmI3OA?_fn=RnVuIFJhY2UgM0RfdjEuOS4wX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLnNsaXBweS5saW5lcnVzaGVy&am=NtAN_2JmZavCDooLMDsa_g&at=1634349964&k=7d7f974f1ee34850153c89426a1fa6d6616b850d",
-      "voiceCommand": "Fun Race 3D",
-      "packageName": "com.slippy.linerusher",
-      "versionName": "1.9.0",
-      "informationUrl": "https://apkpure.com/fun-race-3d/com.slippy.linerusher"
     },
     {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/10/27/100751/77f15617fd094ad3a6b39e56e4b63da2.apk",
@@ -63,28 +50,12 @@
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/767501E0780D592890EE78E896B0A05B.apk?fsname=cn.gov.tax.its_1.6.9_10609.apk&csr=03a5"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=244753&SoftItemId=4550789",
-      "voiceCommand": "百度网盘",
-      "packageName": "com.baidu.netdisk",
-      "versionName": "11.15.2",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_116071_1634267577/96",
-      "packageUrl": "http://110.85.21.193:49155/imtt.dd.qq.com/16891/apk/1AD4B1BBA6327CA20777C77DCB809FC2.apk?mkey=616aa05aceea92f4621f10fcc115739b&arrive_key=90523127322&fsname=com.baidu.netdisk_11.15.2_1573.apk&csr=03a5&cip=113.118.103.10&proto=http"
-    },
-    {
       "informationUrl": "https://apkpure.com/taxi-sim-2020/com.ovilex.taxisim2019",
       "voiceCommand": "Taxi Sim 2020",
       "packageName": "com.ovilex.taxisim2019",
       "versionName": "1.2.31",
       "iconUrl":"https://image.winudf.com/v2/image1/Y29tLm92aWxleC50YXhpc2ltMjAxOV9pY29uXzE1NzY3NTI4MTlfMDEz/icon.png?w=340&fakeurl=1",
       "packageUrl": "https://d-15.winudf.com/b/XAPK/Y29tLm92aWxleC50YXhpc2ltMjAxOV80NF81NWQ3OTdiYQ?_fn=VGF4aSBTaW0gMjAyMF92MS4yLjMxX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLm92aWxleC50YXhpc2ltMjAxOQ&am=2aMBBUv3lvIIMrZ7Xi3jYw&at=1636635579&k=49b37ed111af4489b420893a39bee973618e653d"
-    },
-    {
-      "packageUrl": "http://110.85.21.178:49155/imtt.dd.qq.com/16891/apk/086D7252E157F487E42A8F53AA1A002F.apk?mkey=616a790d37c35b84cb8a4dfcb215739b&arrive_key=77153833758&fsname=com.qiyi.video_12.9.6_800120956.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "爱奇艺",
-      "packageName": "com.qiyi.video",
-      "versionName": "12.9.6",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_7720_1632817212/96",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=44856&SoftItemId=4540442"
     },
     {
       "voiceCommand": "Slack",
@@ -125,14 +96,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
     {
-      "packageUrl": "http://110.81.199.146:49155/imtt.dd.qq.com/16891/apk/6F7B06FA4FDF8FE62AA1529082F450A1.apk?mkey=616a56d9100643df200e3ffc92c7779b&arrive_key=18387247561&fsname=com.mfw.roadbook_10.5.7_958.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "马蜂窝",
-      "packageName": "com.mfw.roadbook",
-      "versionName": "10.5.7",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=40602&SoftItemId=4548124",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_3243_1634032176/96"
-    },
-    {
       "packageUrl": "http://110.85.57.145:49155/imtt.dd.qq.com/16891/apk/9D4238B87F86CD54AEE215069CBF03F6.apk?mkey=616a4db3cc2a0f8dea81e0fc9139739b&arrive_key=85477374357&fsname=com.airbnb.android_21.40.1.china_24004138.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "爱彼迎",
       "packageName": "com.airbnb.android",
@@ -160,13 +123,6 @@
       "packageName": "com.wuba.bangjob",
       "versionName": "6.16.5",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=195255&SoftItemId=4480621"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=20339&SoftItemId=4487620",
-      "voiceCommand": "掌阅",
-      "packageName": "com.chaozh.iReaderFree",
-      "versionName": "7.49.0",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/B8027ADFEFD3BCFBE689FE71E629B40F.apk?fsname=com.chaozh.iReaderFree_7.49.0_74901.apk&csr=03a5"
     },
     {
       "informationUrl": "https://apkpure.com/1010-klooni/dev.lonami.klooni",
@@ -309,13 +265,6 @@
       ]
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/09/29/140526/e85621307d3e492ebfd64348e14b7882.apk",
-      "voiceCommand": "懂车帝",
-      "packageName": "com.ss.android.auto",
-      "versionName": "6.5.7",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1321632&SoftItemId=4542811"
-    },
-    {
       "informationUrl": "http://m.appstore.nubia.com/detailedness.html?SoftId=35785&SoftItemId=4469503",
       "packageUrl": "http://125.77.17.33/imtt.dd.qq.com/16891/apk/1F7EE1EA5E55867879527809F840CCCF.apk?mkey=60ff79137176402f&f=9946&fsname=com.kdanmobile.android.pdfreader.google.pad_oppo_5.1.5_90416026.apk&csr=03a5&cip=113.118.102.218&proto=http",
       "voiceCommand": "PDF Reader",
@@ -328,19 +277,6 @@
       "packageName": "jp.co.ponos.superstarizone",
       "versionName": "1.2.11",
       "packageUrl": "https://d-32.winudf.com/b/APK/anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmVfNTY4XzUyZGVjYzIw?_fn=U1VQRVJTVEFSIElaIE9ORV92MS4yLjExX2Fwa3B1cmUuY29tLmFwaw&_p=anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmU&am=A_LoNcd3gYY4U_GF0HWVEg&at=1627349432&k=854ad11a55f175527584766a8704068a6100b33a"
-    },
-    {
-      "informationUrl": "https://apkpure.com/calculator-kitty-free/app.bugbyte.calculatorkitty",
-      "voiceCommand": "Calculator Kitty FREE",
-      "packageName": "app.bugbyte.calculatorkitty",
-      "versionName": "1.2",
-      "packageUrl": "https://d-13.winudf.com/b/apk/YXBwLmJ1Z2J5dGUuY2FsY3VsYXRvcmtpdHR5XzIwX2I5YTcwZTQy?_fn=Q2FsY3VsYXRvciBLaXR0eSBGUkVFX3YxLjJfYXBrcHVyZS5jb20uYXBr&_p=YXBwLmJ1Z2J5dGUuY2FsY3VsYXRvcmtpdHR5&am=0nvYCDBVB6bEbvApLpGuTw&at=1627349898&k=0a47c047c09bda81a9fc306d0590a6666100b50b"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/01238d4cbf53349623fe2323d7f67f75495181074/com.sinyee.babybus.magichouse.apk",
-      "voiceCommand": "宝宝调色屋",
-      "packageName": "com.sinyee.babybus.magichouse",
-      "versionName": "9.52.30.00"
     },
     {
       "packageUrl": "http://apk4.lenovomm.com/dlserver/fileman/ali/app/app-apk-lestore/2805-2020-07-24112359-1595561039118.apk?KEY1=8c8bcf397fcfbaa3dc6f9dfaa2a03750&KEY2=5FEEF09A&order=0&uuid=9cfd24131066401695db767082603c40&cMD5=false&sorder=0&group=&ts=1609321882492&cpn=com.lenovo.appstore.3g&cid=17071",
@@ -379,24 +315,9 @@
       "versionName": "4.4.3"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1689973&SoftItemId=4490728",
-      "voiceCommand": "米读极速版",
-      "packageName": "com.lechuan.mdwz",
-      "versionName": "1.63.0.0802.1200",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/CC9AE680AA095468BB75676779A23C3F.apk?fsname=com.lechuan.mdwz_1.63.0.0802.1200_106300.apk&csr=03a5"
-    },
-    {
       "packageUrl": "https://d-11.winudf.com/b/apk/Y29tLnBqbWFza3MubW9vbmxpZ2h0aGVyb2VzXzEyMV9mZGY0Mjk5Yg?_fn=UEogTWFza3PihKIgTW9vbmxpZ2h0IEhlcm9lc192My4wLjBfYXBrcHVyZS5jb20uYXBr&_p=Y29tLnBqbWFza3MubW9vbmxpZ2h0aGVyb2Vz&am=KrGvl9EQsdR339ymES_zoA&k=ac675f02c55c98db52e3ddcf85aa12f35e9feb43",
       "voiceCommand": "睡衣小英雄",
       "packageName": "com.pjmasks.moonlightheroes"
-    },
-    {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/11/10/093652/9f9ba6bb8fb74f6db7069af4cc6cae11.apk",
-      "voiceCommand": "陌陌",
-      "packageName": "com.immomo.momo",
-      "versionName": "9.1.3",
-      "iconUrl": "https://c1-appstore.nubia.com/Developer/ai/2021/07/29/093747/f02a274b63154250a5112f7d5d441e39.png",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=32491&SoftItemId=4578768"
     },
     {
       "packageUrl": "https://d-13.winudf.com/b/apk/Y29tLnJlYy5zY3JlZW4ucmVjb3JkZXIucmVjb3JkaW5nLmhkLm5vcm9vdF8yX2Y4MjJjZTYx?_fn=U2NyZWVuIFJlY29yZGVyIFBybyBSRUNfdjEuMV9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnJlYy5zY3JlZW4ucmVjb3JkZXIucmVjb3JkaW5nLmhkLm5vcm9vdA&am=u8chd4GacOjNAjTTtEs3HA&k=3f87d3cbd252effd6132b983f168fd135e9feee1",
@@ -534,14 +455,6 @@
       "voiceCommand": "鄂汇办",
       "packageName": "cn.cty.hbzw",
       "versionName": "3.3.8"
-    },
-    {
-      "packageUrl": "https://d-08.winudf.com/b/APK/Y29tLmNoZXNzLmZyZWUuZnJpZW5kc18xN19lNThiYTNmMQ?_fn=Q2hlc3MgRnJlZV92MS4xNi4zMDI4LjBfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmNoZXNzLmZyZWUuZnJpZW5kcw&am=jMMZkhNkprHnWVsmczXi3A&at=1634372079&k=8b4615807b6662518956959170b140d6616bdb70",
-      "voiceCommand": "Chess Free",
-      "packageName": "com.chess.free.friends",
-      "versionName": "1.16.3028.0",
-      "informationUrl": "https://apkpure.com/chess-free/com.chess.free.friends",
-      "iconUrl": "https://image.winudf.com/v2/image/Y29tLmNoZXNzLmZyZWUuZnJpZW5kc19pY29uX204NmtsczRv/icon.png?w=340&fakeurl=1"
     },
     {
       "packageUrl": "https://c7-appstore.nubia.com/data/upload/apk/2019/12/6/580532cc4336fdfaa331aabe4a7bf297.apk",
@@ -688,14 +601,6 @@
       "packageUrl": "https://d-09.winudf.com/b/APK/Y29tLmRyZWFtZ2FtZS5ib3diYXR0bGV6b21iaWVfMTYyMTEwX2U2Mzk4OWMy?_fn=QXJjaGVycyB2cyBab21iaWVzX3YxNi4yLjExMF9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmRyZWFtZ2FtZS5ib3diYXR0bGV6b21iaWU&am=OYGjOo1lo8W1fYC10H7kcg&at=1627260493&k=8d3c1ba0040d5c73fea3bbfc890c0e7560ff57ea"
     },
     {
-      "voiceCommand": "Real Steel Boxing Champions",
-      "packageName": "com.reliancegames.rschampions",
-      "versionName": "2.5.201",
-      "informationUrl": "https://apkpure.com/real-steel-boxing-champions/com.reliancegames.rschampions",
-      "packageUrl": "https://d-06.winudf.com/b/XAPK/Y29tLnJlbGlhbmNlZ2FtZXMucnNjaGFtcGlvbnNfMjA1MjAxMTFfN2QzMTc5ZTQ?_fn=UmVhbCBTdGVlbCBCb3hpbmcgQ2hhbXBpb25zX3YyLjUuMjAxX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLnJlbGlhbmNlZ2FtZXMucnNjaGFtcGlvbnM&am=tobEeI7qRngx5BjJlHZPFg&at=1634373347&k=03386c3898fc45441be0614df1a80619616be063",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJlbGlhbmNlZ2FtZXMucnNjaGFtcGlvbnNfaWNvbl8xNjEyNzk4MzYyXzA5Mg/icon.png?w=340&fakeurl=1"
-    },
-    {
       "voiceCommand": "奇妙游乐园世界",
       "packageName": "com.sinyee.babybus.amusement",
       "versionName": "9.57.50.10",
@@ -801,7 +706,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.android.msp.ui.views.MspWebActivity",
+      "activityName": "com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -872,13 +777,6 @@
       "packageName": "twittervideosaver.twittervideodownloader.twimate.savetwittergif",
       "versionName": "1.1.1",
       "packageUrl": "https://d-10.winudf.com/b/APK/dHdpdHRlcnZpZGVvc2F2ZXIudHdpdHRlcnZpZGVvZG93bmxvYWRlci50d2ltYXRlLnNhdmV0d2l0dGVyZ2lmXzExX2IyNGEwZmE1?_fn=RG93bmxvYWQgVHdpdHRlciBWaWRlb3MgR0lGIFR3ZWV0IERvd25sb2FkZXJfdjEuMS4xX2Fwa3B1cmUuY29tLmFwaw&_p=dHdpdHRlcnZpZGVvc2F2ZXIudHdpdHRlcnZpZGVvZG93bmxvYWRlci50d2ltYXRlLnNhdmV0d2l0dGVyZ2lm&am=wRR7CLWhi1_vMZl0wt6Nog&at=1627812915&k=768a9d47bc32eb39f39aa8864f7e27536107c5b4"
-    },
-    {
-      "informationUrl": "https://apkpure.com/minimal-dungeon-rpg/com.capplay.mdrpg",
-      "voiceCommand": "Minimal Dungeon RPG",
-      "packageName": "com.capplay.mdrpg",
-      "versionName": "1.5.20",
-      "packageUrl": "https://d-10.winudf.com/b/XAPK/Y29tLmNhcHBsYXkubWRycGdfMjExMDI3MDFfMzI2ODRkYzA?_fn=TWluaW1hbCBEdW5nZW9uIFJQR192MS41LjIwX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLmNhcHBsYXkubWRycGc&am=KUcb17t4fe9FoIZ_C9gqEQ&at=1635770199&k=6c732270b0ab3121d89ce0a6abbe9dd4618130d8"
     },
     {
       "informationUrl": "https://apkpure.com/simple-alarm-clock/com.better.alarm",
@@ -1030,22 +928,6 @@
       "versionName": "8.1.3"
     },
     {
-      "informationUrl": "https://apkpure.com/wikipedia/org.wikipedia",
-      "voiceCommand": "维基百科",
-      "packageName": "org.wikipedia",
-      "versionName": "2.7.50377-r-2021-10-06",
-      "packageUrl": "https://d-15.winudf.com/b/XAPK/b3JnLndpa2lwZWRpYV81MDM3N19jNmI0MjQ0Mg?_fn=V2lraXBlZGlhX3YyLjcuNTAzNzctci0yMDIxLTEwLTA2X2Fwa3B1cmUuY29tLnhhcGs&_p=b3JnLndpa2lwZWRpYQ&am=PjGfX5pTAWD44LhrtisLlQ&at=1634373198&k=725b977245f7ee6c953889cf4f0325e7616bdfcf",
-      "iconUrl": "https://image.winudf.com/v2/image1/b3JnLndpa2lwZWRpYV9pY29uXzE1NjY5OTU0NzdfMDg4/icon.png?w=340&fakeurl=1"
-    },
-    {
-      "informationUrl": "https://apkpure.com/crab-war-idle-swarm-evolution/com.appxplore.crabwar",
-      "voiceCommand": "Crab War",
-      "packageName": "com.appxplore.crabwar",
-      "versionName": "3.37.0",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFwcHhwbG9yZS5jcmFid2FyX2ljb25fMTU2MzQyNDY5NV8wODI/icon.png?w=340&fakeurl=1",
-      "packageUrl": "https://d-05.winudf.com/b/XAPK/Y29tLmFwcHhwbG9yZS5jcmFid2FyXzQ4NF9mMjZmZTNmMA?_fn=Q3JhYiBXYXIgSWRsZSBTd2FybSBFdm9sdXRpb25fdjMuMzcuMF9hcGtwdXJlLmNvbS54YXBr&_p=Y29tLmFwcHhwbG9yZS5jcmFid2Fy&am=PHV8FNOU34h25PuhGQED8Q&at=1634370821&k=faebba6f6689e07519dbebac044f5ede616bd686"
-    },
-    {
       "informationUrl": "https://apkpure.com/hiper-scientific-calculator/cz.hipercalc",
       "voiceCommand": "HiPER Scientific Calculator",
       "packageName": "cz.hipercalc",
@@ -1072,20 +954,6 @@
       "voiceCommand": "动卡空间",
       "packageName": "com.citiccard.mobilebank",
       "versionName": "7.1.7"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0653204530f3a4f521f7145a9319a1e32d5e00ae2/com.huawei.health.apk",
-      "voiceCommand": "华为运动健康",
-      "packageName": "com.huawei.health",
-      "versionName": "11.0.3.517",
-      "informationUrl": "https://app.mi.com/details?id=com.huawei.health&ref=search"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=47199&SoftItemId=4481068",
-      "voiceCommand": "宝宝巴士",
-      "packageName": "com.sinyee.babybus.recommendapp",
-      "versionName": "7.8.22",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/568D63C78F2AB5D5C4BD7FE2B0FBEBE0.apk?fsname=com.sinyee.babybus.recommendapp_7.8.22_7822.apk&csr=03a5"
     },
     {
       "informationUrl": "https://apkpure.com/tank-stars/com.playgendary.tanks",
@@ -1179,14 +1047,6 @@
       "packageUrl": "https://d-12.winudf.com/b/APK/Y29tLmR1Y2tkdWNrZ28ubW9iaWxlLmFuZHJvaWRfNTEwMDAwMDBfOWI0YjcxM2Q?_fn=RHVja0R1Y2tHbyBQcml2YWN5IEJyb3dzZXJfdjUuMTAwLjBfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmR1Y2tkdWNrZ28ubW9iaWxlLmFuZHJvaWQ&am=Yn37347H_7sEyllUNicf_Q&at=1636604327&k=aec56325e4022dca662a8022e5b530a1618deb28"
     },
     {
-      "packageUrl": "https://d-14.winudf.com/b/APK/Y29tLmZveG5ld3MuYW5kcm9pZF8yMDIxMTAyMDAyXzc5YmMxOWIw?_fn=Rm94IE5ld3MgRGFpbHkgQnJlYWtpbmcgTmV3c192NC4zOC4wX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmZveG5ld3MuYW5kcm9pZA&am=0g9M3PZNWqGFn7Af0FLc8Q&at=1636607954&k=155cf413569e0da6a6075c819a778dd8618df953",
-      "voiceCommand": "Fox News",
-      "packageName": "com.foxnews.android",
-      "versionName": "4.38.0",
-      "iconUrl":"https://image.winudf.com/v2/image1/Y29tLmZveG5ld3MuYW5kcm9pZF9pY29uXzE1NTk2OTE4MTBfMDU2/icon.png?w=170&fakeurl=1",
-      "informationUrl": "https://apkpure.com/fox-news-daily-breaking-news/com.foxnews.android"
-    },
-    {
       "packageUrl": "https://d-07.winudf.com/b/XAPK/Y29tLmdlZXdhLnNtYXNoaW5nZm91cl83ODQ0X2Q5NzE3NGY3?_fn=U21hc2hpbmcgRm91cl92Mi4xLjY1X2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLmdlZXdhLnNtYXNoaW5nZm91cg&am=UOe8rry9o0ce4FSg85-1Jw&at=1634357295&k=39e4c7b845d7da6311de0be3b7232bfc616ba1b0",
       "voiceCommand": "Smashing Four",
       "packageName": "com.geewa.smashingfour",
@@ -1204,13 +1064,6 @@
       ]
     },
     {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/64B972990176D6E012F398DE58AF5089.apk?fsname=com.xunmeng.pinduoduo_5.83.0_58300.apk&csr=03a5",
-      "voiceCommand": "拼多多",
-      "packageName": "com.xunmeng.pinduoduo",
-      "versionName": "5.83.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=243752&SoftItemId=4548698"
-    },
-    {
       "packageUrl": "http://110.85.21.222:49155/imtt.dd.qq.com/16891/apk/93F7D38C94CA60E2C64A190B523FDE4F.apk?mkey=616a61ca625c8c298b82e0fcde15739b&arrive_key=309505571409&fsname=com.kk.dict_4.4.5_4405.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "快快查汉语字典",
       "packageName": "com.kk.dict",
@@ -1222,12 +1075,6 @@
       "voiceCommand": "粤通卡",
       "packageName": "com.uroad.unitoll",
       "versionName": "5.0.4"
-    },
-    {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1883/StockShort-966.2020.9.9-arm64.apk",
-      "voiceCommand": "寸短",
-      "packageName": "com.stupidbeauty.stockshort",
-      "versionName": "966.2020.9.9"
     },
     {
       "packageUrl": "https://d-24.winudf.com/b/XAPK/Y29tLm5ldG1hcmJsZS5rb2ZnXzIwMTA5MDQwMl81MWE3YjI5Yg?_fn=VGhlIEtpbmcgb2YgRmlnaHRlcnMgQUxMU1RBUl92MS45LjRfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLm5ldG1hcmJsZS5rb2Zn&am=yVUfW_I1kxpKwuCpzO7bqg&at=1636633986&k=514bc3fc071c3df12599b7179f453c5e618e5f04&uu=http%3A%2F%2F172.16.73.1%2Fb%2FXAPK%2FY29tLm5ldG1hcmJsZS5rb2ZnXzIwMTA5MDQwMl81MWE3YjI5Yg%3Fk%3D4264045a9ba8039706ad381691ce3441618e5f04",
@@ -1256,25 +1103,11 @@
       "versionName": "2019.9.22"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/09/02/143306/4142d73abed34a31a171f62be5b6d064.apk",
-      "voiceCommand": "nubia应用中心",
-      "packageName": "cn.nubia.neostore",
-      "versionName": "4.3.0.082319",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=253641&SoftItemId=4516919"
-    },
-    {
       "informationUrl": "https://apkpure.com/youtube/com.google.android.youtube",
       "voiceCommand": "YouTube",
       "packageName": "com.google.android.youtube",
       "versionName": "16.29.39",
       "packageUrl": "https://d-14.winudf.com/b/XAPK/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfMTUyMjI2OTYzMl8zYjRjZTNhMQ?_fn=WW91VHViZV92MTYuMjkuMzlfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmU&am=Lr97jupEAST0N7mFD9CRHA&at=1627995059&k=5752d974866f201a68c0cf46880cc286610a8d35&uu=http%3A%2F%2F172.16.59.1%2Fb%2FXAPK%2FY29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfMTUyMjI2OTYzMl8zYjRjZTNhMQ%3Fk%3D303239752402c241527b57c8264d0a5a610a8d35"
-    },
-    {
-      "informationUrl": "https://apkpure.com/line-disney-tsum-tsum/com.linecorp.LGTMTMG",
-      "voiceCommand": "LINE: Disney Tsum Tsum",
-      "packageName": "com.linecorp.LGTMTMG",
-      "versionName": "1.83.0",
-      "packageUrl": "https://d-03.winudf.com/b/APK/Y29tLmxpbmVjb3JwLkxHVE1UTUdfMjEwODMwMF9kZTQ0M2RmYQ?_fn=TElORSBEaXNuZXkgVHN1bSBUc3VtX3YxLjgzLjBfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmxpbmVjb3JwLkxHVE1UTUc&am=Giyol6QmUfo5goEWzxH7qw&at=1627995175&k=8f5f76cdc53c7cea012bf8a879727121610a8da8"
     },
     {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/13E6B8771DEB2BB24463C49482079279.apk?fsname=com.show.yabo_9.7.0_9700.apk&csr=03a5",
@@ -1331,12 +1164,6 @@
       "voiceCommand": "豆腐女孩",
       "packageName": "com.dfsn.mz.nubia",
       "versionName": "1.0"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0485835c97766458123e8ff04c145d7b1901f57a1/cn.bczp.activity.apk",
-      "voiceCommand": "百城招聘HR版",
-      "packageName": "cn.bczp.activity",
-      "versionName": "7.32.6"
     },
     {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/290/e/com.aayv.nxjrzue_1.0.0_liqucn.com.apk",
@@ -1611,12 +1438,6 @@
       "versionName": "1.87.101501"
     },
     {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/06e1034bcc98949d91860dfa516290221248cac77/com.polaris.stopwatch.apk",
-      "voiceCommand": "秒表计时器",
-      "packageName": "com.polaris.stopwatch",
-      "versionName": "1.2.0"
-    },
-    {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/341/s/com.netease.ppp.aligames_1.5.0_liqucn.com.apk",
       "voiceCommand": "泡泡趴",
       "packageName": "com.netease.ppp",
@@ -1799,13 +1620,6 @@
       "packageName": "com.black.unique",
       "versionName": "2.6.4",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1644704&SoftItemId=4487001"
-    },
-    {
-      "informationUrl": "https://apkpure.com/dragon-ball-z-dokkan-battle/com.bandainamcogames.dbzdokkanww",
-      "voiceCommand": "DRAGON BALL Z DOKKAN BATTLE",
-      "packageName": "com.bandainamcogames.dbzdokkanww",
-      "versionName": "4.17.7",
-      "packageUrl": "https://d-03.winudf.com/b/APK/Y29tLmJhbmRhaW5hbWNvZ2FtZXMuZGJ6ZG9ra2Fud3dfMTQzXzc5YzkwZWFm?_fn=RFJBR09OIEJBTEwgWiBET0tLQU4gQkFUVExFX3Y0LjE3LjdfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmJhbmRhaW5hbWNvZ2FtZXMuZGJ6ZG9ra2Fud3c&am=1CspaU9rLi-Ww1hE-YRd2A&at=1627699803&k=338451490728b19fbed4f1754921800161060bdc"
     },
     {
       "informationUrl": "https://apkpure.com/bricks-ball-crusher/com.iposedon.bricksbreakerballs",
@@ -2010,13 +1824,6 @@
       "voiceCommand": "驯龙物语",
       "packageName": "com.leniu.xlwy.guopan",
       "versionName": "10.0"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/853BB7E78706825B2D15CCB50F773951.apk?fsname=com.iflytek.vflynote_6.0.1319_387.apk&csr=03a5",
-      "voiceCommand": "讯飞语记",
-      "packageName": "com.iflytek.vflynote",
-      "versionName": "6.0.1319",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=139369&SoftItemId=4474377"
     },
     {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/18CE163D8D2F21F797660E4637B00146.apk?fsname=com.sinyee.babybus.boat_9.56.00.00_9560000.apk&csr=03a5",

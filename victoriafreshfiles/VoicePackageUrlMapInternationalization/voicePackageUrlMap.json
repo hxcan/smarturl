@@ -74,14 +74,6 @@
       "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42259478_1632993520/96"
     },
     {
-      "packageUrl": "http://110.85.21.35:49155/imtt.dd.qq.com/16891/apk/87592041EE4C95B69896242C3A58FD6B.apk?mkey=616aac852e5b43dfb71c08fc2315739b&arrive_key=46900655345&fsname=com.cs_credit_bank_6.0.0_20211009.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "发现精彩",
-      "packageName": "com.cs_credit_bank",
-      "versionName": "6.0.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=735350&SoftItemId=4550568",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42256578_1634263209/96"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0e0d456058dc26047cbb6945107e9269207401c43/com.csair.mbp.apk",
       "voiceCommand": "南方航空",
       "packageName": "com.csair.mbp",
@@ -161,13 +153,6 @@
       "packageName": "org.cocos2dx.LifeWars",
       "versionName": "1.4.3",
       "packageUrl": "https://d-04.winudf.com/b/apk/b3JnLmNvY29zMmR4LkxpZmVXYXJzXzI5X2U1Nzg1ZDQw?_fn=TGlmZSBXYXJzIHRoZSBHYW1lIG9mIExpZmUgQWR2ZW50dXJlX3YxLjQuM19hcGtwdXJlLmNvbS5hcGs&_p=b3JnLmNvY29zMmR4LkxpZmVXYXJz&am=_5qPoZEpF3IMNgRSCaYSJA&at=1628139250&k=e8131a32fd06b18867f68d534ff3b322610cc074"
-    },
-    {
-      "informationUrl": "https://apkpure.com/samsung-gallery/com.sec.android.gallery3d",
-      "voiceCommand": "Samsung Gallery",
-      "packageName": "com.sec.android.gallery3d",
-      "versionName": "5.4.11.0",
-      "packageUrl": "https://d-05.winudf.com/b/apk/Y29tLnNlYy5hbmRyb2lkLmdhbGxlcnkzZF81NDExMDAwMDBfZDA3OGRkODE?_fn=U2Ftc3VuZyBHYWxsZXJ5X3Y1LjQuMTEuMF9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnNlYy5hbmRyb2lkLmdhbGxlcnkzZA&am=5vz80NN_z4Jj0J4-RrSjhQ&at=1627812378&k=2dac86f14f03705de09e1a33b53e4ffc6107c39c"
     },
     {
       "informationUrl": "https://apkpure.com/simple-clock-alarm-clock-widget-stopwatch-timer/com.simplemobiletools.clock",
@@ -344,14 +329,6 @@
       "packageName": "com.duowan.mobile",
       "versionName": "8.0.24",
       "packageUrl": "http://110.85.55.19:49155/imtt.dd.qq.com/16891/apk/ABCAE9D7DEC5106E68EB020AAE6C8948.apk?mkey=616a6a369ba7f1fba681e0fc1337739b&arrive_key=405113354439&fsname=com.duowan.mobile_8.0.24_110824.apk&csr=03a5&cip=113.118.103.10&proto=http"
-    },
-    {
-      "informationUrl": "https://apkpure.com/paypal-mobile-cash-send-and-request-money-fast/com.paypal.android.p2pmobile",
-      "voiceCommand": "贝宝",
-      "packageName": "com.paypal.android.p2pmobile",
-      "versionName": "8.4.3",
-      "packageUrl": "https://d-13.winudf.com/b/XAPK/Y29tLnBheXBhbC5hbmRyb2lkLnAycG1vYmlsZV8xMTUwMDc1NzA3X2FjYzg3Nzc4?_fn=UGF5UGFsIFNlbmQgU2hvcCBNYW5hZ2VfdjguNC4zX2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLnBheXBhbC5hbmRyb2lkLnAycG1vYmlsZQ&am=jd7vbz7MIITgzEiL74EJtA&at=1634373656&k=a6969c80e93953ab6974723da5f08121616be199",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnBheXBhbC5hbmRyb2lkLnAycG1vYmlsZV9pY29uXzE1NTk5NTM5MDRfMDE0/icon.png?w=340&fakeurl=1"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1715095&SoftItemId=4456015",
@@ -706,7 +683,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity",
+      "activityName": "com.alipay.mobile.quinox.AppLinksActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -1003,13 +980,6 @@
       "packageName": "ihl.random",
       "versionName": "4.2.4",
       "packageUrl": "https://d-28.winudf.com/b/apk/aWhsLnJhbmRvbV81M184OWExMjQ5NQ?_fn=THVja3kgRHJhd192NC4yLjRfYXBrcHVyZS5jb20uYXBr&_p=aWhsLnJhbmRvbQ&am=th3c7uS3Wv20UNbIRcHuzA&at=1627810654&k=18b22d3f0d451c0895cc5f7046a544b86107bcdf&uu=http%3A%2F%2F172.16.76.1%2Fb%2Fapk%2FaWhsLnJhbmRvbV81M184OWExMjQ5NQ%3Fk%3Df99d3b5aef1d7710a71bc7936fc264856107bcdf"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1551719&SoftItemId=4483912",
-      "voiceCommand": "酷狗唱唱",
-      "packageName": "com.kugou.android.ktvapp",
-      "versionName": "2.9.60",
-      "packageUrl": "http://14.215.85.50/imtt.dd.qq.com/16891/apk/0CFEDB748B4BDEF7F1B0D0E172EE25A4.apk?mkey=6108adbe71765727&f=0000&fsname=com.kugou.android.ktvapp_2.9.60_29960.apk&csr=03a5&cip=113.118.113.210&proto=http"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=42456&SoftItemId=4485104",
@@ -1407,13 +1377,6 @@
       "versionName": "6.6.1"
     },
     {
-      "informationUrl": "https://apkpure.com/alto-s-adventure/com.noodlecake.altosadventure",
-      "voiceCommand": "Alto's Adventure",
-      "packageName": "com.noodlecake.altosadventure",
-      "versionName": "1.8.0",
-      "packageUrl": "https://d-13.winudf.com/b/APK/Y29tLm5vb2RsZWNha2UuYWx0b3NhZHZlbnR1cmVfMTI4X2FkMWM1MWYx?_fn=QWx0byBzIEFkdmVudHVyZV92MS44LjBfYXBrcHVyZS5jb20uYXBr&_p=Y29tLm5vb2RsZWNha2UuYWx0b3NhZHZlbnR1cmU&am=8Azif4Hv3fFbPtg7ZiX6Iw&at=1627953753&k=646be633f5ab8cd083c01fc74c98c47d6109ebda"
-    },
-    {
       "packageUrl": "http://110.85.6.111:49155/imtt.dd.qq.com/16891/apk/7A425C7B20F333485712E201A40CC2BF.apk?mkey=616a57bd847c772b7382e0fc6f06739b&arrive_key=13045143895&fsname=com.bokecc.dance_7.5.3_292.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "糖豆",
       "packageName": "com.bokecc.dance",
@@ -1680,12 +1643,6 @@
       "versionName": "1.7.2"
     },
     {
-      "packageUrl": "http://121.14.142.197/imtt.dd.qq.com/16891/apk/FC71EE85F4F6AB5DE05C99B0852B01F1.apk?mkey=60fd722771764f43&f=17c7&fsname=com.wuba_10.18.1_101801.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "58同城",
-      "packageName": "com.wuba",
-      "versionName": "10.18.1"
-    },
-    {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/12/190508/0d68267a1571460c850fa2e91d3519eb.apk",
       "voiceCommand": "瓜子二手车",
       "packageName": "com.ganji.android.haoche_c",
@@ -1756,16 +1713,6 @@
       "iconUrl": "https://c1-appstore.nubia.com/Developer/ai/2021/09/18/165914/79d736d89bc34d21ab293c02b07fdad5.png"
     },
     {
-      "informationUrl": "https://apkpure.com/granny/com.dvloper.granny",
-      "voiceCommand": "恐怖奶奶",
-      "packageName": "com.dvloper.granny.nubia",
-      "versionName": "1.7.9",
-      "packageUrl": "https://d-02.winudf.com/b/XAPK/Y29tLmR2bG9wZXIuZ3Jhbm55XzUwXzM0Nzk4YTky?_fn=R3Jhbm55X3YxLjcuOV9hcGtwdXJlLmNvbS54YXBr&_p=Y29tLmR2bG9wZXIuZ3Jhbm55&am=xqE1xWDL2Gf4FRg-yy8ZxQ&at=1627520966&k=e0e20f05e7957a3a34e305e9dad8689f61035148",
-      "extraPackageNames": [
-        "com.dvloper.granny"
-      ]
-    },
-    {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/5F8FA7140DF9DEE694762C42215DDCB5.apk?fsname=com.cdfgsanya.app.mobile_7.4.9_70400900.apk&csr=03a5",
       "voiceCommand": "cdf海南免税",
       "packageName": "com.cdfgsanya.app.mobile",
@@ -1831,16 +1778,6 @@
       "packageName": "com.sinyee.babybus.boat",
       "versionName": "9.56.00.00",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=47123&SoftItemId=4430903"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/037aa3a4b8f9d42edbecbbddb5f0935c3d9aa7b64/eyJhcGt2IjoxNjI2OTI4NDk0LCJuYW1lIjoiY29tLm5ldGVhc2UubHJzLm1pIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/f52d955ed437cdbed0d38d0d8ec95ced",
-      "voiceCommand": "狼人杀",
-      "packageName": "com.netease.lrs.aligames",
-      "versionName": "2.5.2",
-      "informationUrl": "https://app.mi.com/details?id=com.netease.lrs.mi&ref=search",
-      "extraPackageNames": [
-        "com.netease.lrs.mi"
-      ]
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/0762142139fca0381a71580963d933ea3e141c794/eyJhcGt2IjoiOTYwIiwibmFtZSI6ImNvbS5tMzcuZGxkbC5taSIsInZlcnNpb24iOiIxLjAiLCJjaWQiOiJtZW5nXzE0MzlfNV9hbmRyb2lkIiwibWQ1IjpmYWxzZX0/95d94b54ff4ab68b94fdec5dbe360c8b",
@@ -1985,13 +1922,6 @@
       "packageName": "cn.edaijia.android.client",
       "versionName": "9.10.2",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=12444&SoftItemId=4490276"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0fce046ca65f74d32865fe67b8f67ee826881f3c1/com.zyjh.ygjz.apk",
-      "voiceCommand": "一瓜兼职-学生赚钱",
-      "packageName": "com.zyjh.ygjz",
-      "versionName": "2.0.2",
-      "informationUrl": "https://app.mi.com/details?id=com.zyjh.ygjz&ref=search"
     },
     {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=150167&SoftItemId=4486435",

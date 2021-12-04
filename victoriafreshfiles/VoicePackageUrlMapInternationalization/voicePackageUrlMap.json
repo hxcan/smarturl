@@ -73,13 +73,6 @@
       "versionName": "10.7.0.7"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/22/143754/d956facac8614a1299725e833ce5e59f.apk",
-      "voiceCommand": "招财猫直聘",
-      "packageName": "com.wuba.bangjob",
-      "versionName": "6.16.5",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=195255&SoftItemId=4480621"
-    },
-    {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/16/162607/6811bc17b9384e9bb551d63e6fac985f.apk",
       "voiceCommand": "梦幻花园",
       "packageName": "com.ledou.mhhy",
@@ -131,13 +124,6 @@
       "packageUrl": "https://bestforandroid.com/apk/download/chrome-apk-update/?wpdmdl=1903",
       "voiceCommand": "谷歌浏览器",
       "packageName": "com.android.chrome"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1592332&SoftItemId=4470596",
-      "voiceCommand": "奥特曼传奇英雄",
-      "packageName": "com.joym.legendhero",
-      "versionName": "1.9.2",
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/12/100123/4ca73dc56348497f81905714e227a420.apk"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/0aaed58e34979dc5b452c7211a5838abdb84190ff/eyJhcGt2IjoxMDA5MDAwLCJuYW1lIjoiYWlyLmpwLmdsb2JhbGdlYXIucHRvbW8uZmhwIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/7a7c7a10e9967ed87df42ad06fe4f143",
@@ -350,13 +336,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49413&SoftItemId=4542949"
     },
     {
-      "informationUrl": "https://apkpure.com/super-dancer/com.superdancer.fun",
-      "voiceCommand": "超级舞者",
-      "packageName": "com.superdancer.fun",
-      "versionName": "3.3",
-      "packageUrl": "https://d-24.winudf.com/b/xapk/Y29tLnN1cGVyZGFuY2VyLmZ1bl80Nl8yMjkwZTdmNw?_fn=U3VwZXIgRGFuY2VyX3YzLjNfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLnN1cGVyZGFuY2VyLmZ1bg&am=B4FToe8Ja7Rivd-xglkXcg&at=1627908855&k=7d09b5160db1c41bcd6297b21a38428761093c78"
-    },
-    {
       "packageUrl": "http://121.12.123.142/imtt.dd.qq.com/16891/apk/613F7897D4875E31210435274EF14E03.apk?mkey=60fd7e9871764f43&f=0f9e&fsname=com.p1.mobile.putong_4.7.5.1_2475110.apk&csr=03a5&cip=113.118.105.182&proto=http",
       "voiceCommand": "探探",
       "packageName": "com.p1.mobile.putong",
@@ -479,7 +458,7 @@
       "packageUrl": "https://qr.alipay.com/",
       "voiceCommand": "支付宝",
       "packageName": "com.eg.android.AlipayGphone",
-      "activityName": "com.alipay.mobile.quinox.LauncherActivity",
+      "activityName": "com.alipay.android.app.TransProcessPayActivity",
       "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/10/21/105817/23fe24ab1e20435493883acdb95aa08d.png",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
@@ -488,12 +467,6 @@
       "voiceCommand": "未知美腿",
       "packageName": "com.stupidbeauty.unknownbeautyleg",
       "versionName": "2020.5.5"
-    },
-    {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1861/GoddessCamera-2020.1.10.apk",
-      "voiceCommand": "女神相机",
-      "packageName": "com.stupidbeauty.goddesscamera",
-      "versionName": "2020.1.10"
     },
     {
       "packageUrl": "https://d-36.winudf.com/b/apk/b3JnLnJ1Ym90by5pcmJfMThfNTgyYTAyNjE?_fn=UnVib3RvIElSQiBSdWJ5IG9uIEFuZHJvaWRfdjAuOS4xX2Fwa3B1cmUuY29tLmFwaw&_p=b3JnLnJ1Ym90by5pcmI&am=PjDSbrAyaSL2uzTU3lHc7A&at=1589689671&k=ce4a89a931d4e476356bb6a1457765ea5ec20ec9&uu=http%3A%2F%2F172.16.85.1%2Fb%2Fapk%2Fb3JnLnJ1Ym90by5pcmJfMThfNTgyYTAyNjE%3Fk%3D3c865799104cc97ed6325384adfe60da5ec20ec9",
@@ -713,13 +686,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=138768&SoftItemId=4463704"
     },
     {
-      "informationUrl": "https://apkpure.com/lucky-draw/ihl.random",
-      "voiceCommand": "Lucky Draw",
-      "packageName": "ihl.random",
-      "versionName": "4.2.4",
-      "packageUrl": "https://d-28.winudf.com/b/apk/aWhsLnJhbmRvbV81M184OWExMjQ5NQ?_fn=THVja3kgRHJhd192NC4yLjRfYXBrcHVyZS5jb20uYXBr&_p=aWhsLnJhbmRvbQ&am=th3c7uS3Wv20UNbIRcHuzA&at=1627810654&k=18b22d3f0d451c0895cc5f7046a544b86107bcdf&uu=http%3A%2F%2F172.16.76.1%2Fb%2Fapk%2FaWhsLnJhbmRvbV81M184OWExMjQ5NQ%3Fk%3Df99d3b5aef1d7710a71bc7936fc264856107bcdf"
-    },
-    {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=42456&SoftItemId=4485104",
       "voiceCommand": "网易邮箱大师",
       "packageName": "com.netease.mail",
@@ -747,13 +713,6 @@
       "versionName": "1145.2019.6.1"
     },
     {
-      "packageUrl": "https://d-07.winudf.com/b/XAPK/Y29tLmdlZXdhLnNtYXNoaW5nZm91cl83ODQ0X2Q5NzE3NGY3?_fn=U21hc2hpbmcgRm91cl92Mi4xLjY1X2Fwa3B1cmUuY29tLnhhcGs&_p=Y29tLmdlZXdhLnNtYXNoaW5nZm91cg&am=UOe8rry9o0ce4FSg85-1Jw&at=1634357295&k=39e4c7b845d7da6311de0be3b7232bfc616ba1b0",
-      "voiceCommand": "Smashing Four",
-      "packageName": "com.geewa.smashingfour",
-      "versionName": "2.1.65",
-      "informationUrl": "https://apkpure.com/smashing-four/com.geewa.smashingfour"
-    },
-    {
       "packageUrl": "http://110.85.21.222:49155/imtt.dd.qq.com/16891/apk/93F7D38C94CA60E2C64A190B523FDE4F.apk?mkey=616a61ca625c8c298b82e0fcde15739b&arrive_key=309505571409&fsname=com.kk.dict_4.4.5_4405.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "快快查汉语字典",
       "packageName": "com.kk.dict",
@@ -777,13 +736,6 @@
       "voiceCommand": "随机应用",
       "packageName": "com.stupidbeauty.randomapplication",
       "versionName": "2019.9.22"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/1B17F400FF517E1BB221500C4555A4D0.apk?fsname=com.lezhi.princesssandyhairsalon_3.07.2202_5006.apk&csr=03a5",
-      "voiceCommand": "Sandy公主美发沙龙",
-      "packageName": "com.lezhi.princesssandyhairsalon",
-      "versionName": "3.07.2202",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1430765&SoftItemId=4096391"
     },
     {
       "informationUrl": "https://apkpure.com/game-of-life-live-wallpaper/com.demaksee.life",
@@ -867,13 +819,6 @@
       "voiceCommand": "叽里呱啦",
       "packageName": "com.jiliguala.niuwa",
       "versionName": "11.0.2"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=266438&SoftItemId=4481033",
-      "voiceCommand": "宝宝超市",
-      "packageName": "com.sinyee.babybus.shopping",
-      "versionName": "9.57.50.10",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/CFDA0D12B5C085CC3CF460A0ED803878.apk?fsname=com.sinyee.babybus.shopping_9.57.50.10_9575010.apk&csr=03a5"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0a9a4567548e8f7eb1b0bb9f7367bb2260d416e75/com.pingan.smt.apk",
@@ -991,21 +936,6 @@
       "packageName": "com.andromania.audioeditor",
       "versionName": "1.22",
       "packageUrl": "https://d-08.winudf.com/b/APK/Y29tLmFuZHJvbWFuaWEuYXVkaW9lZGl0b3JfMjAyNF8yNWY1OTcwYg?_fn=QXVkaW8gRWRpdG9yIEN1dCBNZXJnZSBNaXggRXh0cmFjdCBDb252ZXJ0IEF1ZGlvX3YxLjIyX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmFuZHJvbWFuaWEuYXVkaW9lZGl0b3I&am=81aIYZdvM7vmGAl1_z18FQ&at=1628163797&k=ff90667a6b38726a317bc0762eb781b2610d2056"
-    },
-    {
-      "informationUrl": "https://apkpure.com/wwe-mayhem-android/com.reliancegames.wwemayhem",
-      "voiceCommand": "WWE Mayhem",
-      "packageName": "com.reliancegames.wwemayhem",
-      "versionName": "1.50.165",
-      "packageUrl": "https://d-13.winudf.com/b/APK/Y29tLnJlbGlhbmNlZ2FtZXMud3dlbWF5aGVtXzE1MDE2NV8yZWEyMWI4Yw?_fn=V1dFIE1heWhlbV92MS41MC4xNjVfYXBrcHVyZS5jb20uYXBr&_p=Y29tLnJlbGlhbmNlZ2FtZXMud3dlbWF5aGVt&am=bLv4Bbb3-yroGFVnlb04cg&at=1634363632&k=cd911914d51abe8d3400989f67880abf616bba71",
-      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJlbGlhbmNlZ2FtZXMud3dlbWF5aGVtX2ljb25fMTYxNTUyODc2N18wMjM/icon.png?w=340&fakeurl=1"
-    },
-    {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/26/162256/77f76dd35dbf4a249e84173369ff156b.apk",
-      "voiceCommand": "番茄免费小说",
-      "packageName": "com.dragon.read",
-      "versionName": "4.9.0.32",
-      "informationUrl": "http://m.appstore.nubia.com/detailedness.html?SoftId=1686275&SoftItemId=4483328"
     },
     {
       "packageUrl": "http://183.60.155.199/imtt.dd.qq.com/16891/apk/331B69DC42A20DBA088CBFF4DF45C77A.apk?mkey=60fd116371764f43&f=0ef9&fsname=com.ifreetalk.ftalk_7.1.003_10701003.apk&csr=03a5&cip=113.118.105.182&proto=http",
@@ -1402,13 +1332,6 @@
       "packageName": "com.pmcaff.web",
       "versionName": "3.5.0",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=258068&SoftItemId=4471946"
-    },
-    {
-      "packageUrl": "https://d-09.winudf.com/b/XAPK/anAubmF2ZXIubGluZS5hbmRyb2lkXzExMTIzMDI3Ml9lMGRkZGU2MA?_fn=TElORSBGcmVlIENhbGxzIE1lc3NhZ2VzX3YxMS4xMi4zX2Fwa3B1cmUuY29tLnhhcGs&_p=anAubmF2ZXIubGluZS5hbmRyb2lk&am=y5bHL9Qsf4Y8HBZ3DRsI_A&at=1627257783&k=d1bb6869b37131b60f45b2f6a8280f5260ff4d38",
-      "voiceCommand": "LINE",
-      "packageName": "jp.naver.line.android",
-      "versionName": "11.12.3",
-      "informationUrl": "https://apkpure.com/line-free-calls-messages/jp.naver.line.android"
     }
   ]
 }

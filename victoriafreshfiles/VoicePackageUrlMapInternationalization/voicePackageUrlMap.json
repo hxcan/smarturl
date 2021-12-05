@@ -17,7 +17,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.plugin.base.stub.WXShortcutEntryActivity",
+      "activityName":"com.tencent.mm.ui.tools.ShareScreenImgUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -119,13 +119,6 @@
       "packageUrl": "http://183.2.192.153/imtt.dd.qq.com/16891/apk/693A07F9376FB91C396809714945D2A1.apk?mkey=610918de71765727&f=0ef9&fsname=com.xunlei.downloadprovider_7.25.0.7566_13566.apk&csr=03a5&cip=113.118.113.210&proto=http"
     },
     {
-      "informationUrl": "https://apkpure.com/mahougen-magiccirclegenerator/com.appspot.pistatium.mahougen",
-      "voiceCommand": "Mahougen -MagicCircleGenerator",
-      "packageName": "com.appspot.pistatium.mahougen",
-      "versionName": "1.3.1",
-      "packageUrl": "https://d-32.winudf.com/b/apk/Y29tLmFwcHNwb3QucGlzdGF0aXVtLm1haG91Z2VuXzZfNmU1M2M5MGU?_fn=TWFob3VnZW4gTWFnaWNDaXJjbGVHZW5lcmF0b3JfdjEuMy4xX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmFwcHNwb3QucGlzdGF0aXVtLm1haG91Z2Vu&am=Zvt3oyoe_4Mlc6UiYY7lkQ&at=1628079011&k=9e96e22fda887145cd2f25ab67f7a153610bd525"
-    },
-    {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/4452B367F61DD24B19944A0A571D9F16.apk?fsname=com.sinyee.babybus.world_10.00.33.10_10003310.apk&csr=03a5",
       "voiceCommand": "宝宝巴士世界",
       "packageName": "com.sinyee.babybus.world",
@@ -144,12 +137,6 @@
       "packageName": "org.telegram.messenger",
       "informationUrl": "https://apkpure.com/telegram/org.telegram.messenger",
       "versionName": "8.1.2"
-    },
-    {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1845/AndroidAsASoundBox-1167.2020.2.13.armv7a.apk",
-      "voiceCommand": "安卓即音箱",
-      "packageName": "com.stupidbeauty.androidasasoundbox.player",
-      "versionName": "2020.2.13"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/02cb2d183ec6d4b6e9db3bcc10d07393f6713e8ba/com.citiccard.mobilebank.apk",
@@ -189,13 +176,6 @@
       "voiceCommand": "随机应用",
       "packageName": "com.stupidbeauty.randomapplication",
       "versionName": "2019.9.22"
-    },
-    {
-      "informationUrl": "https://apkpure.com/game-of-life-live-wallpaper/com.demaksee.life",
-      "voiceCommand": "Game of Life",
-      "packageName": "com.demaksee.life",
-      "versionName": "2.1",
-      "packageUrl": "https://d-12.winudf.com/b/apk/Y29tLmRlbWFrc2VlLmxpZmVfMTVfOWYzOThlYTA?_fn=R2FtZSBvZiBMaWZlIExpdmUgV2FsbHBhcGVyX3YyLjFfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmRlbWFrc2VlLmxpZmU&am=5HKfzMhCM_dzg7xZnF45lw&at=1632113730&k=b220e4f65a80b4070e0adf2ee1198e0f614965c3"
     },
     {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/290/e/com.aayv.nxjrzue_1.0.0_liqucn.com.apk",
@@ -264,30 +244,10 @@
       "versionName": "8.3.60.21956"
     },
     {
-      "informationUrl": "https://apkpure.com/bricks-ball-crusher/com.iposedon.bricksbreakerballs",
-      "voiceCommand": "Bricks Ball Crusher",
-      "packageName": "com.iposedon.bricksbreakerballs",
-      "versionName": "1.3.46",
-      "iconUrl":"https://image.winudf.com/v2/image1/Y29tLmlwb3NlZG9uLmJyaWNrc2JyZWFrZXJiYWxsc19pY29uXzE2MTcyNjQyMjdfMDU3/icon.png?w=340&fakeurl=1",
-      "packageUrl": "https://d-03.winudf.com/b/APK/Y29tLmlwb3NlZG9uLmJyaWNrc2JyZWFrZXJiYWxsc18xMDAwMzQ2Xzk4YjMwZmRi?_fn=QnJpY2tzIEJhbGwgQ3J1c2hlcl92MS4zLjQ2X2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmlwb3NlZG9uLmJyaWNrc2JyZWFrZXJiYWxscw&am=xut3p3y4qQ4iLcAZ77PGDQ&at=1636608835&k=9954b49ab4ae33acb3ba2ccedf043b36618dfcc4"
-    },
-    {
-      "packageUrl": "http://14.116.174.50/imtt.dd.qq.com/16891/apk/2C9E241C7A26455097B9F786EB2C669A.apk?mkey=60fd180a71764f43&f=0ce9&fsname=com.unique.app_3.21.5_164.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "康爱多掌上药店",
-      "packageName": "com.unique.app",
-      "versionName": "3.21.5"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/03b20444d6d0b4dd4019375120a1120fa0ed13fd8/com.cqzxkj.goalcountdown.apk",
       "voiceCommand": "目标计划助手",
       "packageName": "com.cqzxkj.goalcountdown",
       "versionName": "2.6"
-    },
-    {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/23/160254/721eb72facf34d6b9462e87a453b3645.apk",
-      "voiceCommand": "飞猪旅行",
-      "packageName": "com.taobao.trip",
-      "versionName": "9.8.4.103"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/01ed745e97145a10decd030df0f787b5aa7405bd3/eyJhcGt2IjoiOTIwIiwibmFtZSI6Im9yZy50aW5naG9vZC5UcHNGb3JNb2JpbGUubWkiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/7f7b6d3a58c8e7de2010a82abffcc5ec",
@@ -308,14 +268,6 @@
       "packageName": "com.sinyee.babybus.drinks",
       "versionName": "9.57.50.10",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=457474&SoftItemId=4482352"
-    },
-    {
-      "packageUrl": "http://222.78.41.121:49155/imtt.dd.qq.com/16891/apk/EB776A7219165162F9788C0B6ECB7B41.apk?mkey=616aab12cd5de1f48681e0fc7929682b&arrive_key=20215641936&fsname=com.caict.xingchengka_3.1.2_12.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "通信行程卡",
-      "packageName": "com.caict.xingchengka",
-      "versionName": "3.1.2",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1700048&SoftItemId=4545207",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_54033973_1633681844/96"
     },
     {
       "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/22/105112/584e69bce20d4e92a5c89b1d10ee7025.apk",

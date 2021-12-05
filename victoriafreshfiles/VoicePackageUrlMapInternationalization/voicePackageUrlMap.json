@@ -4,7 +4,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.plugin.base.stub.WXPayEntryActivity",
+      "activityName":"com.tencent.mm.ui.tools.ShareScreenToTimeLineUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -106,13 +106,6 @@
       "voiceCommand": "一嗨租车",
       "packageName": "com.ehai",
       "versionName": "6.6.80"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/D1CD44139E422035F77151D988CC2FA5.apk?fsname=com.sinyee.babybus.logicII_9.57.00.02_9570002.apk&csr=03a5",
-      "voiceCommand": "奇妙数学逻辑",
-      "packageName": "com.sinyee.babybus.logicII",
-      "versionName": "9.57.00.02",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1698307&SoftItemId=4470098"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0afb04525c5614d878a5ce691c81ea0fa255cb6ad/com.tencent.qqlive.apk",

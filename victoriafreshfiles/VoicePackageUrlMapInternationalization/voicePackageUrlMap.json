@@ -8,13 +8,6 @@
       "packageUrl": "http://113.96.154.184/imtt.dd.qq.com/16891/apk/D4BB7CA4105FBE3D6730E58FB16D56FF.apk?mkey=6108ff1371765727&f=8fee&fsname=com.szzc_7.5.0_143.apk&csr=03a5&cip=113.118.113.210&proto=http"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1643859&SoftItemId=4486293",
-      "voiceCommand": "个人所得税",
-      "packageName": "cn.gov.tax.its",
-      "versionName": "1.6.9",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/767501E0780D592890EE78E896B0A05B.apk?fsname=cn.gov.tax.its_1.6.9_10609.apk&csr=03a5"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0e0d456058dc26047cbb6945107e9269207401c43/com.csair.mbp.apk",
       "voiceCommand": "南方航空",
       "packageName": "com.csair.mbp",
@@ -24,7 +17,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.ui.ShortCutDispatchActivity",
+      "activityName":"com.tencent.mm.ui.LauncherUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -36,27 +29,11 @@
       "packageUrl": "https://d-14.winudf.com/b/APK/Y29tLndoYXRzYXBwXzIxMTQyNTAwMF9jNzc1NDYwZA?_fn=V2hhdHNBcHAgTWVzc2VuZ2VyX3YyLjIxLjE0LjI1X2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLndoYXRzYXBw&am=hmmXOUxTtWQB8aVyYdxCAQ&at=1628138832&k=772e58ba9027508a72b301e851e47e5a610cbed2&uu=http%3A%2F%2F172.16.58.1%2Fb%2FAPK%2FY29tLndoYXRzYXBwXzIxMTQyNTAwMF9jNzc1NDYwZA%3Fk%3Dec9a9c2b4421e54f97112730ec6a560c610cbed2"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=23911&SoftItemId=4490749",
-      "voiceCommand": "虎牙直播",
-      "packageName": "com.duowan.kiwi",
-      "versionName": "9.4.21",
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/08/03/094446/2d2f9b6323c044178cb518aad86c43b0.apk"
-    },
-    {
       "informationUrl": "https://apkpure.com/google-play-console/com.google.android.apps.playconsole",
       "voiceCommand": "Google Play Console",
       "packageName": "com.google.android.apps.playconsole",
       "versionName": "8.2.027",
       "packageUrl": "https://d-20.winudf.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl?_fn=R29vZ2xlIFBsYXkgQ29uc29sZV92OC4yLjAyN19hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGU&am=8gFUZWzC0SDX7iDVP7V8LQ&at=1627995414&k=3a959d717182399b4af12e77919adda3610a8e97&uu=http%3A%2F%2F172.16.71.1%2Fb%2Fapk%2FY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl%3Fk%3Dff3deca08665a634ecb5baed52879a76610a8e97"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/0aaed58e34979dc5b452c7211a5838abdb84190ff/eyJhcGt2IjoxMDA5MDAwLCJuYW1lIjoiYWlyLmpwLmdsb2JhbGdlYXIucHRvbW8uZmhwIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/7a7c7a10e9967ed87df42ad06fe4f143",
-      "voiceCommand": "组合模型",
-      "packageName": "com.joypac.ptomo",
-      "versionName": "1.9.0",
-      "extraPackageNames": [
-        "air.jp.globalgear.ptomo.fhp"
-      ]
     },
     {
       "informationUrl": "https://apkpure.com/superstar-iz-one/jp.co.ponos.superstarizone",
@@ -168,12 +145,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
     },
     {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1875/UnknownBeautyLeg.573.2020.5.5.arm64.apk",
-      "voiceCommand": "未知美腿",
-      "packageName": "com.stupidbeauty.unknownbeautyleg",
-      "versionName": "2020.5.5"
-    },
-    {
       "informationUrl": "https://apkpure.com/where-s-my-water-2/com.disney.wheresmywater2_goo",
       "voiceCommand": "Where's My Water? 2",
       "packageName": "com.disney.wheresmywater2_goo",
@@ -237,13 +208,6 @@
       "versionName": "8.1.2"
     },
     {
-      "informationUrl": "https://apkpure.com/video-downloader-for-twitter/com.videodownloader.twittervideoindir",
-      "voiceCommand": "推特视频下载器",
-      "packageName": "com.videodownloader.twittervideoindir",
-      "versionName": "3.5.0",
-      "packageUrl": "https://d-04.winudf.com/b/XAPK/Y29tLnZpZGVvZG93bmxvYWRlci50d2l0dGVydmlkZW9pbmRpcl81MF8zODJiODkwNA?_fn=VmlkZW8gRG93bmxvYWRlciBmb3IgVHdpdHRlcl92My41LjBfYXBrcHVyZS5jb20ueGFwaw&_p=Y29tLnZpZGVvZG93bmxvYWRlci50d2l0dGVydmlkZW9pbmRpcg&am=qlWvIY86SDp2bRaWnO0fPg&at=1627699410&k=57b83f526df0c5f7598743fca4438ca661060a53"
-    },
-    {
       "packageUrl": "https://stupidbeauty.com/ArticleImages/1845/AndroidAsASoundBox-1167.2020.2.13.armv7a.apk",
       "voiceCommand": "安卓即音箱",
       "packageName": "com.stupidbeauty.androidasasoundbox.player",
@@ -302,14 +266,6 @@
       "packageUrl": "https://d-12.winudf.com/b/apk/Y29tLmRlbWFrc2VlLmxpZmVfMTVfOWYzOThlYTA?_fn=R2FtZSBvZiBMaWZlIExpdmUgV2FsbHBhcGVyX3YyLjFfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmRlbWFrc2VlLmxpZmU&am=5HKfzMhCM_dzg7xZnF45lw&at=1632113730&k=b220e4f65a80b4070e0adf2ee1198e0f614965c3"
     },
     {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/043e82532833d469238e58e167a3ca43304b1997a/cn.sdjifeng.mid.apk",
-      "voiceCommand": "MID麦爱迪",
-      "packageName": "cn.sdjifeng.mid",
-      "versionName": "1.0.15",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1704585&SoftItemId=4218758",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_54060583_1602235663/96"
-    },
-    {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/290/e/com.aayv.nxjrzue_1.0.0_liqucn.com.apk",
       "voiceCommand": "懂片帝",
       "packageName": "com.aayv.nxjrzue",
@@ -330,13 +286,6 @@
       "informationUrl": "https://stupidbeauty.com/Blog/article/1837/HxLauncher:%20%E7%81%B5%E6%A1%8C%E9%9D%A2%EF%BC%8C%E4%BB%A5%E8%AF%AD%E9%9F%B3%E6%8C%87%E4%BB%A4%E6%9D%A5%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/14/093418/5afc9da8725f41e7a63ae17eff8666b8.apk",
-      "voiceCommand": "myOffer 留学",
-      "packageName": "com.myoffer.activity",
-      "versionName": "4.4.6",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=41963&SoftItemId=4472149"
-    },
-    {
       "packageUrl": "https://c7-appstore.nubia.com/Developer/app/2018/08/24/141750/fc3a7a721bb64ba1b99be4932047e6dd.apk",
       "voiceCommand": "疯狂的球球",
       "packageName": "com.mars.fkdqq.nubia",
@@ -349,35 +298,10 @@
       "versionName": "6.6.80"
     },
     {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/8904F7C5415845965CAE0757467CD4D3.apk?fsname=com.tplink.ipc_3.5.7_30507.apk&csr=03a5",
-      "voiceCommand": "TP-LINK安防",
-      "packageName": "com.tplink.ipc",
-      "versionName": "3.5.7",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1020475&SoftItemId=4462544"
-    },
-    {
       "packageUrl": "https://0e75bd7f.qc.x.bsgslb.cn:10443/xdispatch/fga1.market.xiaomi.com/download/AppStore/087d5e5373ce14c7c3fe27037767a445c4031d0ad/com.sskj.flashlight.apk",
       "voiceCommand": "随手电筒",
       "packageName": "com.sskj.flashlight",
       "versionName": "6.6.1"
-    },
-    {
-      "packageUrl": "http://110.85.6.111:49155/imtt.dd.qq.com/16891/apk/7A425C7B20F333485712E201A40CC2BF.apk?mkey=616a57bd847c772b7382e0fc6f06739b&arrive_key=13045143895&fsname=com.bokecc.dance_7.5.3_292.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "糖豆",
-      "packageName": "com.bokecc.dance",
-      "versionName": "7.5.3",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=19337&SoftItemId=4540507",
-      "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11944179_1632818489/96"
-    },
-    {
-      "informationUrl": "https://apkpure.com/color-touch-free/ee.kaader.colortouch",
-      "packageUrl": "https://d-10.winudf.com/b/APK/ZWUua2FhZGVyLmNvbG9ydG91Y2hfMTdfZDc0Mjk2YWE?_fn=Q29sb3IgVG91Y2ggRnJlZV92MS45LjdfYXBrcHVyZS5jb20uYXBr&_p=ZWUua2FhZGVyLmNvbG9ydG91Y2g&am=duUACTqAFPgNsres0DnsOg&at=1632113915&k=00e616cd22c0e7d89f83695450caacdd6149667c",
-      "voiceCommand": "柔彩图形",
-      "packageName": "ee.kaader.colortouch",
-      "versionName": "1.9.7",
-      "extraPackageNames": [
-        "ee.kaader.colortouch.bnn"
-      ]
     },
     {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/341/s/com.netease.ppp.aligames_1.5.0_liqucn.com.apk",
@@ -494,13 +418,6 @@
       "packageName": "com.PPGame.Onnect",
       "versionName": "1.3.3",
       "packageUrl": "https://d-01.winudf.com/b/XAPK/Y29tLlBQR2FtZS5Pbm5lY3RfMTZfYzJmNGRhYjc?_fn=VGlsZSBPbm5lY3QgTWF0Y2hpbmcgUHV6emxlX3YxLjMuM19hcGtwdXJlLmNvbS54YXBr&_p=Y29tLlBQR2FtZS5Pbm5lY3Q&am=Tsv4FmzuO1Fcso1qE-Qhhw&at=1627907760&k=3128b6594c88a172525d7a6906c06a3361093831"
-    },
-    {
-      "informationUrl": "https://apkpure.com/simple-soroban/br.net.btco.soroban",
-      "voiceCommand": "Simple Soroban",
-      "packageName": "br.net.btco.soroban",
-      "versionName": "2.0.4",
-      "packageUrl": "https://d-08.winudf.com/b/apk/YnIubmV0LmJ0Y28uc29yb2Jhbl8yMDRfZWM4MmI2OTI?_fn=U2ltcGxlIFNvcm9iYW5fdjIuMC40X2Fwa3B1cmUuY29tLmFwaw&_p=YnIubmV0LmJ0Y28uc29yb2Jhbg&am=PLTPu8oVBfynOdfBjmVt_g&at=1627906054&k=52b2e70340b7976f41cc804907c12afd61093187"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/087964b920f6e4f64a4d07a1156e6e1b1313f36c1/com.sd.smalllovecar.apk",

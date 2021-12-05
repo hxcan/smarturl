@@ -17,7 +17,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.ui.LauncherUI",
+      "activityName":"com.tencent.midas.wx.APMidasWXPayActivity",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -34,13 +34,6 @@
       "packageName": "com.google.android.apps.playconsole",
       "versionName": "8.2.027",
       "packageUrl": "https://d-20.winudf.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl?_fn=R29vZ2xlIFBsYXkgQ29uc29sZV92OC4yLjAyN19hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGU&am=8gFUZWzC0SDX7iDVP7V8LQ&at=1627995414&k=3a959d717182399b4af12e77919adda3610a8e97&uu=http%3A%2F%2F172.16.71.1%2Fb%2Fapk%2FY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl%3Fk%3Dff3deca08665a634ecb5baed52879a76610a8e97"
-    },
-    {
-      "informationUrl": "https://apkpure.com/superstar-iz-one/jp.co.ponos.superstarizone",
-      "voiceCommand": "SUPERSTAR IZ*ONE",
-      "packageName": "jp.co.ponos.superstarizone",
-      "versionName": "1.2.11",
-      "packageUrl": "https://d-32.winudf.com/b/APK/anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmVfNTY4XzUyZGVjYzIw?_fn=U1VQRVJTVEFSIElaIE9ORV92MS4yLjExX2Fwa3B1cmUuY29tLmFwaw&_p=anAuY28ucG9ub3Muc3VwZXJzdGFyaXpvbmU&am=A_LoNcd3gYY4U_GF0HWVEg&at=1627349432&k=854ad11a55f175527584766a8704068a6100b33a"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/0dd846658bd5445938f24e300ff223e2523ceb9ea/eyJhcGt2IjoyNjAyOCwibmFtZSI6ImNvbS5hbGlnYW1lcy5rdWFuZy5reWJjLm1pIiwidmVyc2lvbiI6IjEuMCIsImNpZCI6Im1lbmdfMTQzOV8zNDVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/0233456f213175e28cbac10278f310be",
@@ -82,13 +75,6 @@
       "packageName": "com.skycap.Kids_Wooden_Jigsaw",
       "versionName": "1.9",
       "packageUrl": "https://d-28.winudf.com/b/XAPK/Y29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXdfMTBfOGZiOTJlZWU?_fn=S2lkcyBQdXp6bGVzIFdvb2RlbiBKaWdzYXdfdjEuOV9hcGtwdXJlLmNvbS54YXBr&_p=Y29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXc&am=lrWk0LSQGSVlUblI6qFIaw&at=1627350323&k=e2dba402e60ee3dee8d0291d9c64a4116100b6b4&uu=http%3A%2F%2F172.16.76.1%2Fb%2FXAPK%2FY29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXdfMTBfOGZiOTJlZWU%3Fk%3D507fdd3131c3e417c167137f43e516f56100b6b4"
-    },
-    {
-      "informationUrl": "https://apkpure.com/flight-pilot-simulator-3d-free/com.fungames.flightpilot",
-      "voiceCommand": "Flight Pilot",
-      "packageName": "com.fungames.flightpilot",
-      "versionName": "2.4.19",
-      "packageUrl": "https://d-33.winudf.com/b/APK/Y29tLmZ1bmdhbWVzLmZsaWdodHBpbG90XzEyOTZfNTY5MzllYzI?_fn=RmxpZ2h0IFBpbG90IFNpbXVsYXRvciAzRCBGcmVlX3YyLjQuMTlfYXBrcHVyZS5jb20uYXBr&_p=Y29tLmZ1bmdhbWVzLmZsaWdodHBpbG90&am=duwUrLz0KU1gYbo9IHWYKw&at=1627362035&k=d01b837265fdebed80744266bdec4f886100e474&uu=http%3A%2F%2F172.16.82.1%2Fb%2FAPK%2FY29tLmZ1bmdhbWVzLmZsaWdodHBpbG90XzEyOTZfNTY5MzllYzI%3Fk%3Db2ec1ee4add8ec59ffdbfaf5be68d1756100e474"
     },
     {
       "packageUrl": "https://c1.g.mi.com/package/AppStore/05ed3b45d7acd4a1712ff74d99c1ea7a7e05789e0/eyJhcGt2IjoiNzY2IiwibmFtZSI6ImNvbS5jYXJyb3QuaWNld29ybGQiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/d336e434dbe5d5019c7bd0d73dece87c",
@@ -425,14 +411,6 @@
       "packageName": "com.sd.smalllovecar",
       "versionName": "6.0.7",
       "informationUrl": "https://app.mi.com/details?id=com.sd.smalllovecar&ref=search"
-    },
-    {
-      "packageUrl": "http://110.85.57.146:49155/imtt.dd.qq.com/16891/apk/60364C560795E7570E92A1BF7E126DC0.apk?mkey=618d2c67dec8a884198b4dfc9239739b&arrive_key=68593325492&fsname=com.tplink.cloudrouter_5.6.22_152.apk&csr=03a5&cip=14.153.76.190&proto=http",
-      "voiceCommand": "TP-LINK",
-      "packageName": "com.tplink.cloudrouter",
-      "versionName": "5.6.22",
-      "iconUrl":"http://pp.myapp.com/ma_icon/0/icon_12125191_1631071706/96",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=371284&SoftItemId=4521699"
     },
     {
       "packageUrl": "http://121.32.249.212/imtt.dd.qq.com/16891/apk/5AEF4315F25A4B0134DA4618B51EB6D3.apk?mkey=60fd7fa171764f43&f=0000&fsname=com.pmcaff.web_3.5.0_20200010.apk&csr=03a5&cip=113.118.105.182&proto=http",

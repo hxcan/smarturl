@@ -1,26 +1,12 @@
 {
   "voicePackageMapJsonItemList": [
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=48867&SoftItemId=4476479",
-      "voiceCommand": "神州租车",
-      "packageName": "com.szzc",
-      "versionName": "7.5.0",
-      "packageUrl": "http://113.96.154.184/imtt.dd.qq.com/16891/apk/D4BB7CA4105FBE3D6730E58FB16D56FF.apk?mkey=6108ff1371765727&f=8fee&fsname=com.szzc_7.5.0_143.apk&csr=03a5&cip=113.118.113.210&proto=http"
-    },
-    {
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.ui.tools.ShareToTimeLineUI",
+      "activityName":"com.tencent.mm.plugin.base.stub.WXPayEntryActivity",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
-    },
-    {
-      "informationUrl": "https://apkpure.com/google-play-console/com.google.android.apps.playconsole",
-      "voiceCommand": "Google Play Console",
-      "packageName": "com.google.android.apps.playconsole",
-      "versionName": "8.2.027",
-      "packageUrl": "https://d-20.winudf.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl?_fn=R29vZ2xlIFBsYXkgQ29uc29sZV92OC4yLjAyN19hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGU&am=8gFUZWzC0SDX7iDVP7V8LQ&at=1627995414&k=3a959d717182399b4af12e77919adda3610a8e97&uu=http%3A%2F%2F172.16.71.1%2Fb%2Fapk%2FY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGxheWNvbnNvbGVfODIwMDI3OTAwXzc2ZjM0OWVl%3Fk%3Dff3deca08665a634ecb5baed52879a76610a8e97"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/08212d2046d45481fbb1468302a4246420dfd467e/com.esbook.reader.apk",
@@ -28,12 +14,6 @@
       "packageName": "com.esbook.reader",
       "versionName": "4.16.0",
       "informationUrl": "https://app.mi.com/details?id=com.esbook.reader&ref=search"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0884444fe5c354c033560c20209db81e994ab5e53/com.sinyee.babybus.superman.apk",
-      "voiceCommand": "宝宝超级英雄",
-      "packageName": "com.sinyee.babybus.superman",
-      "versionName": "9.52.00.00"
     },
     {
       "packageUrl": "https://d-31.winudf.com/b/apk/Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg?_fn=MjA0OCBDbGFzc2ljX3Y0LjEuNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWM&am=P5VOdhnH7J4S-bblYzfyEg&k=cadf140f040f158b386f0ecdfa6566645ea3eedb&uu=http%3A%2F%2F172.16.79.1%2Fb%2Fapk%2FY29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg%3Fk%3D7bb12135ea2fe11addb17cb4b3146c1c5ea3eedb",
@@ -68,12 +48,6 @@
       "packageName": "com.xunlei.downloadprovider",
       "versionName": "7.25.0.7566",
       "packageUrl": "http://183.2.192.153/imtt.dd.qq.com/16891/apk/693A07F9376FB91C396809714945D2A1.apk?mkey=610918de71765727&f=0ef9&fsname=com.xunlei.downloadprovider_7.25.0.7566_13566.apk&csr=03a5&cip=113.118.113.210&proto=http"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0eff741214fd87604f99f69e3a79420196f416da9/com.sinyee.babybus.memory.apk",
-      "voiceCommand": "宝宝记忆达人",
-      "packageName": "com.sinyee.babybus.memory",
-      "versionName": "9.52.00.00"
     },
     {
       "packageUrl": "https://d-05.winudf.com/b/APK/b3JnLnRlbGVncmFtLm1lc3Nlbmdlcl8yNDMyN18zOTc5NDlkZg?_fn=VGVsZWdyYW1fdjguMS4yX2Fwa3B1cmUuY29tLmFwaw&_p=b3JnLnRlbGVncmFtLm1lc3Nlbmdlcg&am=eBaZpRIcLOhZt9omA6--iw&at=1634355397&k=8fc82f7170374452e075767a6ffa60d5616b9a46",
@@ -115,12 +89,6 @@
       "versionName": "2019.9.22"
     },
     {
-      "packageUrl": "https://dl001.liqucn.com/upload/2020/290/e/com.aayv.nxjrzue_1.0.0_liqucn.com.apk",
-      "voiceCommand": "懂片帝",
-      "packageName": "com.aayv.nxjrzue",
-      "versionName": "1.0.0"
-    },
-    {
       "packageUrl": "https://stupidbeauty.com/ArticleImages/1837/HxLauncher-11250.2021.9.8.apk",
       "voiceCommand": "灵桌面",
       "packageName": "com.stupidbeauty.hxlauncher",
@@ -140,13 +108,6 @@
       "versionName": "6.6.80"
     },
     {
-      "packageUrl": "http://110.85.57.146:49155/imtt.dd.qq.com/16891/apk/C1ADE1117BD02E4827B71CE3C7E5FCF3.apk?mkey=616a68bca24ba884ae170cfc9239739b&arrive_key=103404161345&fsname=com.mengtuiapp.mall_3.2.2_3020200.apk&csr=03a5&cip=113.118.103.10&proto=http",
-      "voiceCommand": "萌推",
-      "packageName": "com.mengtuiapp.mall",
-      "versionName": "3.2.2",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1595700&SoftItemId=4537640"
-    },
-    {
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/D1CD44139E422035F77151D988CC2FA5.apk?fsname=com.sinyee.babybus.logicII_9.57.00.02_9570002.apk&csr=03a5",
       "voiceCommand": "奇妙数学逻辑",
       "packageName": "com.sinyee.babybus.logicII",
@@ -154,37 +115,10 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1698307&SoftItemId=4470098"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2020/01/08/154219/7fd9c8fe15f04a5fa5140fff5e25270e.apk",
-      "voiceCommand": "金币大富翁",
-      "packageName": "com.jbdfw.nubia",
-      "versionName": "1.2.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1645223&SoftItemId=3923121",
-      "iconUrl": "https://c1-appstore.nubia.com/Developer/ai/2019/01/03/211741/12178b44fca140cba6f0d3b7782b7fa2.png"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0afb04525c5614d878a5ce691c81ea0fa255cb6ad/com.tencent.qqlive.apk",
       "voiceCommand": "腾讯视频",
       "packageName": "com.tencent.qqlive",
       "versionName": "8.3.60.21956"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/03b20444d6d0b4dd4019375120a1120fa0ed13fd8/com.cqzxkj.goalcountdown.apk",
-      "voiceCommand": "目标计划助手",
-      "packageName": "com.cqzxkj.goalcountdown",
-      "versionName": "2.6"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/01ed745e97145a10decd030df0f787b5aa7405bd3/eyJhcGt2IjoiOTIwIiwibmFtZSI6Im9yZy50aW5naG9vZC5UcHNGb3JNb2JpbGUubWkiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/7f7b6d3a58c8e7de2010a82abffcc5ec",
-      "voiceCommand": "台球帝国",
-      "packageName": "org.tinghood.TpsForMobile.uc",
-      "versionName": "5.29"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/18CE163D8D2F21F797660E4637B00146.apk?fsname=com.sinyee.babybus.boat_9.56.00.00_9560000.apk&csr=03a5",
-      "voiceCommand": "宝宝小船长",
-      "packageName": "com.sinyee.babybus.boat",
-      "versionName": "9.56.00.00",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=47123&SoftItemId=4430903"
     }
   ]
 }

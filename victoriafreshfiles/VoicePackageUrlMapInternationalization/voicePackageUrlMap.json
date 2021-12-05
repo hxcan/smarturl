@@ -17,16 +17,9 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.midas.wx.APMidasWXPayActivity",
+      "activityName":"com.tencent.mm.plugin.base.stub.WXShortcutEntryActivity",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
-    },
-    {
-      "informationUrl": "https://apkpure.com/whatsapp-messenger/com.whatsapp",
-      "voiceCommand": "whatsapp",
-      "packageName": "com.whatsapp",
-      "versionName": "2.21.14.25",
-      "packageUrl": "https://d-14.winudf.com/b/APK/Y29tLndoYXRzYXBwXzIxMTQyNTAwMF9jNzc1NDYwZA?_fn=V2hhdHNBcHAgTWVzc2VuZ2VyX3YyLjIxLjE0LjI1X2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLndoYXRzYXBw&am=hmmXOUxTtWQB8aVyYdxCAQ&at=1628138832&k=772e58ba9027508a72b301e851e47e5a610cbed2&uu=http%3A%2F%2F172.16.58.1%2Fb%2FAPK%2FY29tLndoYXRzYXBwXzIxMTQyNTAwMF9jNzc1NDYwZA%3Fk%3Dec9a9c2b4421e54f97112730ec6a560c610cbed2"
     },
     {
       "informationUrl": "https://apkpure.com/google-play-console/com.google.android.apps.playconsole",
@@ -63,44 +56,10 @@
       "informationUrl": "https://app.mi.com/details?id=com.esbook.reader&ref=search"
     },
     {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/28/111051/80f408e59c2247c6910e58b92ef0f9b1.apk",
-      "voiceCommand": "羚萌直播",
-      "packageName": "com.julun.lingmeng",
-      "versionName": "5.17.0",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1304892&SoftItemId=4485556"
-    },
-    {
-      "informationUrl": "https://apkpure.com/kids-puzzles-wooden-jigsaw/com.skycap.Kids_Wooden_Jigsaw",
-      "voiceCommand": "Kids Puzzles - Wooden Jigsaw",
-      "packageName": "com.skycap.Kids_Wooden_Jigsaw",
-      "versionName": "1.9",
-      "packageUrl": "https://d-28.winudf.com/b/XAPK/Y29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXdfMTBfOGZiOTJlZWU?_fn=S2lkcyBQdXp6bGVzIFdvb2RlbiBKaWdzYXdfdjEuOV9hcGtwdXJlLmNvbS54YXBr&_p=Y29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXc&am=lrWk0LSQGSVlUblI6qFIaw&at=1627350323&k=e2dba402e60ee3dee8d0291d9c64a4116100b6b4&uu=http%3A%2F%2F172.16.76.1%2Fb%2FXAPK%2FY29tLnNreWNhcC5LaWRzX1dvb2Rlbl9KaWdzYXdfMTBfOGZiOTJlZWU%3Fk%3D507fdd3131c3e417c167137f43e516f56100b6b4"
-    },
-    {
-      "packageUrl": "https://c1.g.mi.com/package/AppStore/05ed3b45d7acd4a1712ff74d99c1ea7a7e05789e0/eyJhcGt2IjoiNzY2IiwibmFtZSI6ImNvbS5jYXJyb3QuaWNld29ybGQiLCJ2ZXJzaW9uIjoiMS4wIiwiY2lkIjoibWVuZ18xNDM5XzVfYW5kcm9pZCIsIm1kNSI6ZmFsc2V9/d336e434dbe5d5019c7bd0d73dece87c",
-      "voiceCommand": "保卫萝卜2",
-      "packageName": "com.tencent.tmgp.carrot2",
-      "versionName": "4.8.2"
-    },
-    {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0884444fe5c354c033560c20209db81e994ab5e53/com.sinyee.babybus.superman.apk",
       "voiceCommand": "宝宝超级英雄",
       "packageName": "com.sinyee.babybus.superman",
       "versionName": "9.52.00.00"
-    },
-    {
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/10/28/142217/ab4183bcf21340b0915ccaa092afb003.apk",
-      "voiceCommand": "抖音极速版",
-      "packageName": "com.ss.android.ugc.aweme.lite",
-      "versionName": "16.6.2",
-      "iconUrl":"https://c1-appstore.nubia.com/Developer/ai/2021/07/30/104050/3b4eaf64745d4e8da676a204d74e5564.png",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1689231&SoftItemId=4562281"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/08705e64003404b09bc2b02d5f2007184fbe2ad12/net.sibat.ydbus.apk",
-      "voiceCommand": "优点巴士",
-      "packageName": "net.sibat.ydbus",
-      "versionName": "4.1.4"
     },
     {
       "packageUrl": "https://d-31.winudf.com/b/apk/Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg?_fn=MjA0OCBDbGFzc2ljX3Y0LjEuNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWM&am=P5VOdhnH7J4S-bblYzfyEg&k=cadf140f040f158b386f0ecdfa6566645ea3eedb&uu=http%3A%2F%2F172.16.79.1%2Fb%2Fapk%2FY29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg%3Fk%3D7bb12135ea2fe11addb17cb4b3146c1c5ea3eedb",
@@ -129,13 +88,6 @@
       "activityName": "com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity",
       "method":"QrCode",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=24706&SoftItemId=4579981"
-    },
-    {
-      "informationUrl": "https://apkpure.com/where-s-my-water-2/com.disney.wheresmywater2_goo",
-      "voiceCommand": "Where's My Water? 2",
-      "packageName": "com.disney.wheresmywater2_goo",
-      "versionName": "1.9.7",
-      "packageUrl": "https://d-07.winudf.com/b/XAPK/Y29tLmRpc25leS53aGVyZXNteXdhdGVyMl9nb29fMTY5X2E3OTM4YWE?_fn=V2hlcmUgcyBNeSBXYXRlciAyX3YxLjkuN19hcGtwdXJlLmNvbS54YXBr&_p=Y29tLmRpc25leS53aGVyZXNteXdhdGVyMl9nb28&am=BtsvJsbEHN7fwEqa8EHpcQ&at=1628140006&k=3880cc6b04b25f9eb0e9f7ce74037397610cc368"
     },
     {
       "informationUrl": "https://apkpure.com/apkpure/com.apkpure.aegon",
@@ -227,12 +179,6 @@
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/088D4754D8BAB1E62D76248EAE987E35.apk?fsname=com.netease.mail_6.23.10_215.apk&csr=03a5"
     },
     {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/BC5D06A18CC5572F144A59E244988738.apk?fsname=com.uroad.unitoll_5.0.4_20201010.apk&csr=03a5",
-      "voiceCommand": "粤通卡",
-      "packageName": "com.uroad.unitoll",
-      "versionName": "5.0.4"
-    },
-    {
       "packageUrl": "https://715e8119.qc.x.bsgslb.cn:10443/xdispatch/fga1.market.xiaomi.com/download/AppStore/022945c63e07bad82dc63c74f3f18a68fab43f62d/com.job.android.apk",
       "voiceCommand": "前程无忧",
       "packageName": "com.job.android",
@@ -282,12 +228,6 @@
       "voiceCommand": "一嗨租车",
       "packageName": "com.ehai",
       "versionName": "6.6.80"
-    },
-    {
-      "packageUrl": "https://0e75bd7f.qc.x.bsgslb.cn:10443/xdispatch/fga1.market.xiaomi.com/download/AppStore/087d5e5373ce14c7c3fe27037767a445c4031d0ad/com.sskj.flashlight.apk",
-      "voiceCommand": "随手电筒",
-      "packageName": "com.sskj.flashlight",
-      "versionName": "6.6.1"
     },
     {
       "packageUrl": "https://dl001.liqucn.com/upload/2020/341/s/com.netease.ppp.aligames_1.5.0_liqucn.com.apk",
@@ -370,20 +310,6 @@
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=457474&SoftItemId=4482352"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1650120&SoftItemId=4490095",
-      "voiceCommand": "宝宝时尚设计师",
-      "packageName": "com.sinyee.babybus.tailor",
-      "versionName": "9.57.50.01",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/DF0A157DA94987FA3326A45DA7B98630.apk?fsname=com.sinyee.babybus.tailor_9.57.50.01_9575001.apk&csr=03a5"
-    },
-    {
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/ACA55C93BD565951B3FA31A48AECAAD6.apk?fsname=com.youdao.dict_9.0.38_9003800.apk&csr=03a5",
-      "voiceCommand": "网易有道词典",
-      "packageName": "com.youdao.dict",
-      "versionName": "9.0.38",
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=56019&SoftItemId=4473242"
-    },
-    {
       "packageUrl": "http://222.78.41.121:49155/imtt.dd.qq.com/16891/apk/EB776A7219165162F9788C0B6ECB7B41.apk?mkey=616aab12cd5de1f48681e0fc7929682b&arrive_key=20215641936&fsname=com.caict.xingchengka_3.1.2_12.apk&csr=03a5&cip=113.118.103.10&proto=http",
       "voiceCommand": "通信行程卡",
       "packageName": "com.caict.xingchengka",
@@ -397,13 +323,6 @@
       "packageName": "com.jd.pingou",
       "versionName": "4.12.0",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=1678216&SoftItemId=4480356"
-    },
-    {
-      "informationUrl": "https://apkpure.com/tile-onnect-matching-puzzle/com.PPGame.Onnect",
-      "voiceCommand": "Tile Onnect - Matching Puzzle",
-      "packageName": "com.PPGame.Onnect",
-      "versionName": "1.3.3",
-      "packageUrl": "https://d-01.winudf.com/b/XAPK/Y29tLlBQR2FtZS5Pbm5lY3RfMTZfYzJmNGRhYjc?_fn=VGlsZSBPbm5lY3QgTWF0Y2hpbmcgUHV6emxlX3YxLjMuM19hcGtwdXJlLmNvbS54YXBr&_p=Y29tLlBQR2FtZS5Pbm5lY3Q&am=Tsv4FmzuO1Fcso1qE-Qhhw&at=1627907760&k=3128b6594c88a172525d7a6906c06a3361093831"
     },
     {
       "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/087964b920f6e4f64a4d07a1156e6e1b1313f36c1/com.sd.smalllovecar.apk",

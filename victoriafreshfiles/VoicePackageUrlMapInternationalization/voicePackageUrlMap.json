@@ -4,7 +4,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.ui.tools.ShareScreenToTimeLineUI",
+      "activityName":"com.tencent.mm.pluginsdk.ui.tools.AppBrandOpenMaterialUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -14,11 +14,6 @@
       "packageName": "com.esbook.reader",
       "versionName": "4.16.0",
       "informationUrl": "https://app.mi.com/details?id=com.esbook.reader&ref=search"
-    },
-    {
-      "packageUrl": "https://d-31.winudf.com/b/apk/Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg?_fn=MjA0OCBDbGFzc2ljX3Y0LjEuNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWM&am=P5VOdhnH7J4S-bblYzfyEg&k=cadf140f040f158b386f0ecdfa6566645ea3eedb&uu=http%3A%2F%2F172.16.79.1%2Fb%2Fapk%2FY29tLnMyYXBwcy5nYW1lMjA0OGNsYXNzaWNfNl9iMzA1NjdmZg%3Fk%3D7bb12135ea2fe11addb17cb4b3146c1c5ea3eedb",
-      "voiceCommand": "2048",
-      "packageName": "com.s2apps.game2048classic"
     },
     {
       "packageUrl": "https://qr.alipay.com/",
@@ -77,18 +72,6 @@
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/088D4754D8BAB1E62D76248EAE987E35.apk?fsname=com.netease.mail_6.23.10_215.apk&csr=03a5"
     },
     {
-      "packageUrl": "https://715e8119.qc.x.bsgslb.cn:10443/xdispatch/fga1.market.xiaomi.com/download/AppStore/022945c63e07bad82dc63c74f3f18a68fab43f62d/com.job.android.apk",
-      "voiceCommand": "前程无忧",
-      "packageName": "com.job.android",
-      "versionName": "9.9.0"
-    },
-    {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1871/RandomApplication-2019.9.22.apk",
-      "voiceCommand": "随机应用",
-      "packageName": "com.stupidbeauty.randomapplication",
-      "versionName": "2019.9.22"
-    },
-    {
       "packageUrl": "https://stupidbeauty.com/ArticleImages/1837/HxLauncher-11250.2021.9.8.apk",
       "voiceCommand": "灵桌面",
       "packageName": "com.stupidbeauty.hxlauncher",
@@ -106,12 +89,6 @@
       "voiceCommand": "一嗨租车",
       "packageName": "com.ehai",
       "versionName": "6.6.80"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/0afb04525c5614d878a5ce691c81ea0fa255cb6ad/com.tencent.qqlive.apk",
-      "voiceCommand": "腾讯视频",
-      "packageName": "com.tencent.qqlive",
-      "versionName": "8.3.60.21956"
     }
   ]
 }

@@ -4,7 +4,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.plugin.base.stub.WXEntryActivity",
+      "activityName":"com.tencent.mm.plugin.base.stub.WXCustomSchemeEntryActivity",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },

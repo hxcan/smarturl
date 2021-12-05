@@ -4,7 +4,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.plugin.webview.ui.tools.QQCallbackUI",
+      "activityName":"com.tencent.mm.ui.tools.AddFavoriteUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -29,25 +29,6 @@
       "packageName": "org.telegram.messenger",
       "informationUrl": "https://apkpure.com/telegram/org.telegram.messenger",
       "versionName": "8.1.2"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=42456&SoftItemId=4485104",
-      "voiceCommand": "网易邮箱大师",
-      "packageName": "com.netease.mail",
-      "versionName": "6.23.10",
-      "packageUrl": "http://imtt.dd.qq.com/16891/apk/088D4754D8BAB1E62D76248EAE987E35.apk?fsname=com.netease.mail_6.23.10_215.apk&csr=03a5"
-    },
-    {
-      "packageUrl": "https://c7-appstore.nubia.com/Developer/app/2018/08/24/141750/fc3a7a721bb64ba1b99be4932047e6dd.apk",
-      "voiceCommand": "疯狂的球球",
-      "packageName": "com.mars.fkdqq.nubia",
-      "versionName": "1.0.3"
-    },
-    {
-      "packageUrl": "http://121.14.142.197/imtt.dd.qq.com/16891/apk/492EDB649F4A84E837A65229389282CE.apk?mkey=60fd18e871764f43&f=8d86&fsname=com.ehai_6.6.80_6680.apk&csr=03a5&cip=113.118.105.182&proto=http",
-      "voiceCommand": "一嗨租车",
-      "packageName": "com.ehai",
-      "versionName": "6.6.80"
     }
   ]
 }

@@ -4,7 +4,7 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.plugin.wallet_index.ui.WalletOpenFingerprintPayRedirectUI",
+      "activityName":"com.tencent.mm.plugin.webview.ui.tools.QQCallbackUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
     },
@@ -22,13 +22,6 @@
       "packageName": "com.apkpure.aegon",
       "versionName": "3.17.26",
       "packageUrl": "https://d-06.winudf.com/custom/com.apkpure.aegon-3172601.apk?_fn=QVBLUHVyZV92My4xNy4yNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmFwa3B1cmUuYWVnb24&am=L-T_Qv9Pe9Am-4aA8RiTyQ&arg=apkpure%3A%2F%2Fcampaign%2F%3Futm_source%3Dapkpure%26utm_medium%3Ddetails&at=1634350240&k=50cadad53efe1a649fdf4379be07924d616b8621&uu=http%3A%2F%2F172.16.60.1%2Fcustom%2Fcom.apkpure.aegon-3172601.apk%3Fk%3D8ff09f50f033567d05510c049632a3b7616b8621"
-    },
-    {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=197528&SoftItemId=4480394",
-      "voiceCommand": "迅雷",
-      "packageName": "com.xunlei.downloadprovider",
-      "versionName": "7.25.0.7566",
-      "packageUrl": "http://183.2.192.153/imtt.dd.qq.com/16891/apk/693A07F9376FB91C396809714945D2A1.apk?mkey=610918de71765727&f=0ef9&fsname=com.xunlei.downloadprovider_7.25.0.7566_13566.apk&csr=03a5&cip=113.118.113.210&proto=http"
     },
     {
       "packageUrl": "https://d-05.winudf.com/b/APK/b3JnLnRlbGVncmFtLm1lc3Nlbmdlcl8yNDMyN18zOTc5NDlkZg?_fn=VGVsZWdyYW1fdjguMS4yX2Fwa3B1cmUuY29tLmFwaw&_p=b3JnLnRlbGVncmFtLm1lc3Nlbmdlcg&am=eBaZpRIcLOhZt9omA6--iw&at=1634355397&k=8fc82f7170374452e075767a6ffa60d5616b9a46",

@@ -362,10 +362,10 @@ public class SmartUrl
 
 //         陈欣
 //         Intent launchIntent= packageManager.getLaunchIntentForPackage(packageName); //获取当前软件包的启动意图。
-                    Intent i = new Intent(Intent.ACTION_VIEW);
-//                     i.setPackage(packageName); // 设置包名。
-                    i.setComponent(new ComponentName(packageName, activityName)); // 设置组件。
-      i.setData(Uri.parse(url));
+          Intent i = new Intent(Intent.ACTION_VIEW);
+          i.setPackage(packageName); // 设置包名。
+//                     i.setComponent(new ComponentName(packageName, activityName)); // 设置组件。
+        i.setData(Uri.parse(url));
 
         {
             try //尝试启动活动，并且捕获可能的异常。

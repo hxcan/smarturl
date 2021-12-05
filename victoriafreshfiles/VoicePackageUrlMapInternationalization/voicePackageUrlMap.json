@@ -4,16 +4,9 @@
       "packageUrl": "http://saliya.gzyowin.com/wx/",
       "voiceCommand": "微信",
       "packageName": "com.tencent.mm",
-      "activityName":"com.tencent.mm.pluginsdk.ui.tools.AppBrandOpenMaterialUI",
+      "activityName":"com.tencent.mm.plugin.wallet_index.ui.WalletOpenFingerprintPayRedirectUI",
       "method": "Url",
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=49411&SoftItemId=4574180"
-    },
-    {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/08212d2046d45481fbb1468302a4246420dfd467e/com.esbook.reader.apk",
-      "voiceCommand": "宜搜小说",
-      "packageName": "com.esbook.reader",
-      "versionName": "4.16.0",
-      "informationUrl": "https://app.mi.com/details?id=com.esbook.reader&ref=search"
     },
     {
       "packageUrl": "https://qr.alipay.com/",
@@ -31,13 +24,6 @@
       "packageUrl": "https://d-06.winudf.com/custom/com.apkpure.aegon-3172601.apk?_fn=QVBLUHVyZV92My4xNy4yNl9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmFwa3B1cmUuYWVnb24&am=L-T_Qv9Pe9Am-4aA8RiTyQ&arg=apkpure%3A%2F%2Fcampaign%2F%3Futm_source%3Dapkpure%26utm_medium%3Ddetails&at=1634350240&k=50cadad53efe1a649fdf4379be07924d616b8621&uu=http%3A%2F%2F172.16.60.1%2Fcustom%2Fcom.apkpure.aegon-3172601.apk%3Fk%3D8ff09f50f033567d05510c049632a3b7616b8621"
     },
     {
-      "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=23134&SoftItemId=4480354",
-      "voiceCommand": "嘀嗒出行",
-      "packageName": "com.didapinche.booking",
-      "versionName": "8.10.86",
-      "packageUrl": "https://c1-appstore.nubia.com/Developer/app/2021/07/22/101950/5e41ccb1bda643048c0f8d759dd821e6.apk"
-    },
-    {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=197528&SoftItemId=4480394",
       "voiceCommand": "迅雷",
       "packageName": "com.xunlei.downloadprovider",
@@ -52,31 +38,11 @@
       "versionName": "8.1.2"
     },
     {
-      "packageUrl": "https://fga1.market.xiaomi.com/download/AppStore/02cb2d183ec6d4b6e9db3bcc10d07393f6713e8ba/com.citiccard.mobilebank.apk",
-      "voiceCommand": "动卡空间",
-      "packageName": "com.citiccard.mobilebank",
-      "versionName": "7.1.7"
-    },
-    {
-      "packageUrl": "https://d-01.winudf.com/b/APK/YWwudHJpZ29ub20uZm91cm5pbmphXzEyXzc1MmY3OGI4?_fn=NCBOaW5qYSBUcmFpbmluZ192Mi4xLjFfYXBrcHVyZS5jb20uYXBr&_p=YWwudHJpZ29ub20uZm91cm5pbmph&am=K88-SQEGBFiQWaDsZyQf7Q&at=1634355959&k=fd8dcaae9c25188e38943acb904f097d616b9c78",
-      "voiceCommand": "4 Ninja Training",
-      "packageName": "al.trigonom.fourninja",
-      "versionName": "2.1.1",
-      "informationUrl": "https://m.apkpure.com/4-ninja-training/al.trigonom.fourninja"
-    },
-    {
       "informationUrl": "https://m-appstore.nubia.com/detailedness.html?SoftId=42456&SoftItemId=4485104",
       "voiceCommand": "网易邮箱大师",
       "packageName": "com.netease.mail",
       "versionName": "6.23.10",
       "packageUrl": "http://imtt.dd.qq.com/16891/apk/088D4754D8BAB1E62D76248EAE987E35.apk?fsname=com.netease.mail_6.23.10_215.apk&csr=03a5"
-    },
-    {
-      "packageUrl": "https://stupidbeauty.com/ArticleImages/1837/HxLauncher-11250.2021.9.8.apk",
-      "voiceCommand": "灵桌面",
-      "packageName": "com.stupidbeauty.hxlauncher",
-      "versionName": "11250.2021.9.8",
-      "informationUrl": "https://stupidbeauty.com/Blog/article/1837/HxLauncher:%20%E7%81%B5%E6%A1%8C%E9%9D%A2%EF%BC%8C%E4%BB%A5%E8%AF%AD%E9%9F%B3%E6%8C%87%E4%BB%A4%E6%9D%A5%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8"
     },
     {
       "packageUrl": "https://c7-appstore.nubia.com/Developer/app/2018/08/24/141750/fc3a7a721bb64ba1b99be4932047e6dd.apk",
